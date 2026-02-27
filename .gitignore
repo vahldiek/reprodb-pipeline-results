@@ -1,0 +1,5 @@
+# The results repo tracks everything — only ignore OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*~
