@@ -1,0 +1,12 @@
+Pipeline Run Summary
+====================
+Timestamp: 2026-04-03T18:25:59Z
+Status: SUCCESS
+
+Generated Outputs:
+- Statistics data
+- Repository statistics
+- Visualizations
+- Per-area author data
+- Combined rankings
+- Institution rankings

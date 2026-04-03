@@ -1,0 +1,553 @@
+last_updated: '2026-03-13'
+total_members: 3341
+total_systems: 1712
+total_security: 1628
+total_conferences: 50
+total_countries: 59
+total_continents: 7
+total_institutions: 434
+recurring_members: 1912
+recurring_members_systems: 933
+recurring_members_security: 1051
+recurring_chairs: 67
+top_countries:
+- name: United States
+  count: 1543
+- name: China
+  count: 290
+- name: Germany
+  count: 154
+- name: Hong Kong
+  count: 135
+- name: United Kingdom
+  count: 92
+- name: Switzerland
+  count: 68
+- name: Taiwan, Province of China
+  count: 68
+- name: Canada
+  count: 56
+- name: Singapore
+  count: 51
+- name: Japan
+  count: 51
+- name: Australia
+  count: 46
+- name: Italy
+  count: 38
+- name: Netherlands
+  count: 37
+- name: Belgium
+  count: 36
+- name: Spain
+  count: 33
+top_countries_systems:
+- name: United States
+  count: 910
+- name: China
+  count: 204
+- name: Hong Kong
+  count: 86
+- name: United Kingdom
+  count: 50
+- name: Taiwan, Province of China
+  count: 43
+- name: Switzerland
+  count: 40
+- name: Singapore
+  count: 31
+- name: Spain
+  count: 28
+- name: Germany
+  count: 26
+- name: Canada
+  count: 20
+- name: Japan
+  count: 15
+- name: Greece
+  count: 13
+- name: India
+  count: 12
+- name: France
+  count: 12
+- name: Saudi Arabia
+  count: 11
+top_countries_security:
+- name: United States
+  count: 632
+- name: Germany
+  count: 128
+- name: China
+  count: 86
+- name: Hong Kong
+  count: 49
+- name: United Kingdom
+  count: 42
+- name: Australia
+  count: 39
+- name: Japan
+  count: 36
+- name: Canada
+  count: 36
+- name: Belgium
+  count: 34
+- name: Netherlands
+  count: 30
+- name: Switzerland
+  count: 28
+- name: Italy
+  count: 27
+- name: Taiwan, Province of China
+  count: 25
+- name: Singapore
+  count: 20
+- name: France
+  count: 20
+top_continents:
+- name: North America
+  count: 1599
+- name: Asia
+  count: 694
+- name: Europe
+  count: 588
+- name: Oceania
+  count: 47
+- name: Africa
+  count: 32
+- name: Unknown
+  count: 26
+- name: South America
+  count: 6
+top_continents_systems:
+- name: North America
+  count: 930
+- name: Asia
+  count: 417
+- name: Europe
+  count: 219
+- name: Africa
+  count: 14
+- name: Unknown
+  count: 9
+- name: Oceania
+  count: 8
+- name: South America
+  count: 3
+top_continents_security:
+- name: North America
+  count: 668
+- name: Europe
+  count: 369
+- name: Asia
+  count: 277
+- name: Oceania
+  count: 39
+- name: Africa
+  count: 18
+- name: Unknown
+  count: 17
+- name: South America
+  count: 3
+top_institutions:
+- name: University of Illinois Urbana-Champaign
+  count: 108
+- name: Purdue University
+  count: 87
+- name: University of California, Irvine
+  count: 67
+- name: University of Wisconsin - Madison
+  count: 63
+- name: Georgia Institute of Technology
+  count: 56
+- name: cispa helmholtz center for information security
+  count: 53
+- name: University of Michigan - Ann Arbor
+  count: 50
+- name: National Tsinghua University
+  count: 49
+- name: The Hong Kong University of Science and Technology
+  count: 48
+- name: institute of parallel and distributed systems, shanghai jiao tong university
+  count: 47
+- name: computing and imaging institute - the university of utah
+  count: 42
+- name: Carnegie Mellon University
+  count: 40
+- name: University of Chicago
+  count: 38
+- name: University of California, Berkeley
+  count: 36
+- name: The Chinese University of Hong Kong
+  count: 36
+- name: University of California, San Diego
+  count: 34
+- name: imec-distrinet, ku leuven
+  count: 33
+- name: Virginia Tech
+  count: 29
+- name: eth zurich
+  count: 28
+- name: University of California, Riverside
+  count: 28
+top_institutions_systems:
+- name: University of Illinois Urbana-Champaign
+  count: 97
+- name: Purdue University
+  count: 48
+- name: University of Michigan - Ann Arbor
+  count: 44
+- name: institute of parallel and distributed systems, shanghai jiao tong university
+  count: 40
+- name: University of Wisconsin - Madison
+  count: 38
+- name: The Hong Kong University of Science and Technology
+  count: 30
+- name: computing and imaging institute - the university of utah
+  count: 30
+- name: Georgia Institute of Technology
+  count: 29
+- name: University of Chicago
+  count: 28
+- name: The Chinese University of Hong Kong
+  count: 27
+- name: University of California, Irvine
+  count: 26
+- name: Carnegie Mellon University
+  count: 25
+- name: National Tsinghua University
+  count: 25
+- name: University of California, Berkeley
+  count: 24
+- name: Huazhong University of Science and Technology
+  count: 23
+- name: imdea software institute
+  count: 22
+- name: imperial college london
+  count: 20
+- name: microsoft research
+  count: 19
+- name: Cornell University
+  count: 19
+- name: epfl
+  count: 18
+top_institutions_security:
+- name: cispa helmholtz center for information security
+  count: 53
+- name: University of California, Irvine
+  count: 41
+- name: Purdue University
+  count: 39
+- name: imec-distrinet, ku leuven
+  count: 31
+- name: Georgia Institute of Technology
+  count: 27
+- name: University of Wisconsin - Madison
+  count: 25
+- name: Ruhr-Universität Bochum
+  count: 25
+- name: National Tsinghua University
+  count: 24
+- name: Kurume Institute of Technology
+  count: 19
+- name: University of Waterloo
+  count: 19
+- name: The Hong Kong University of Science and Technology
+  count: 18
+- name: google
+  count: 17
+- name: University of California, San Diego
+  count: 17
+- name: Zhejiang University
+  count: 17
+- name: Toyo University
+  count: 16
+- name: Virginia Tech
+  count: 15
+- name: Carnegie Mellon University
+  count: 15
+- name: Indiana University - Bloomington
+  count: 14
+- name: The Hong Kong Polytechnic University
+  count: 13
+- name: computing and imaging institute - the university of utah
+  count: 12
+institution_timeline:
+- year: 2020
+  total: 53
+  systems: 30
+  security: 29
+- year: 2021
+  total: 141
+  systems: 117
+  security: 40
+- year: 2022
+  total: 147
+  systems: 91
+  security: 84
+- year: 2023
+  total: 138
+  systems: 80
+  security: 92
+- year: 2024
+  total: 191
+  systems: 104
+  security: 134
+- year: 2025
+  total: 230
+  systems: 118
+  security: 165
+- year: 2026
+  total: 200
+  systems: 73
+  security: 159
+committee_sizes:
+- conference: ATC
+  year: 2022
+  conf_year: atc2022
+  area: systems
+  size: 119
+- conference: ATC
+  year: 2023
+  conf_year: atc2023
+  area: systems
+  size: 4
+- conference: ATC
+  year: 2024
+  conf_year: atc2024
+  area: systems
+  size: 130
+- conference: ATC
+  year: 2025
+  conf_year: atc2025
+  area: systems
+  size: 174
+- conference: CAIS
+  year: 2026
+  conf_year: cais2026
+  area: unknown
+  size: 1
+- conference: CHES
+  year: 2022
+  conf_year: ches2022
+  area: security
+  size: 26
+- conference: CHES
+  year: 2023
+  conf_year: ches2023
+  area: security
+  size: 26
+- conference: CHES
+  year: 2024
+  conf_year: ches2024
+  area: security
+  size: 18
+- conference: CHES
+  year: 2025
+  conf_year: ches2025
+  area: security
+  size: 23
+- conference: CHES
+  year: 2026
+  conf_year: ches2026
+  area: security
+  size: 19
+- conference: EUROSYS
+  year: 2021
+  conf_year: eurosys2021
+  area: systems
+  size: 53
+- conference: EUROSYS
+  year: 2022
+  conf_year: eurosys2022
+  area: systems
+  size: 69
+- conference: EUROSYS
+  year: 2023
+  conf_year: eurosys2023
+  area: systems
+  size: 63
+- conference: EUROSYS
+  year: 2024
+  conf_year: eurosys2024
+  area: systems
+  size: 51
+- conference: EUROSYS
+  year: 2025
+  conf_year: eurosys2025
+  area: systems
+  size: 101
+- conference: EUROSYS
+  year: 2026
+  conf_year: eurosys2026
+  area: systems
+  size: 105
+- conference: FAST
+  year: 2024
+  conf_year: fast2024
+  area: systems
+  size: 33
+- conference: FAST
+  year: 2025
+  conf_year: fast2025
+  area: systems
+  size: 56
+- conference: NDSS
+  year: 2024
+  conf_year: ndss2024
+  area: security
+  size: 62
+- conference: NDSS
+  year: 2025
+  conf_year: ndss2025
+  area: security
+  size: 64
+- conference: NDSS
+  year: 2026
+  conf_year: ndss2026
+  area: security
+  size: 132
+- conference: OSDI
+  year: 2020
+  conf_year: osdi2020
+  area: systems
+  size: 43
+- conference: OSDI
+  year: 2021
+  conf_year: osdi2021
+  area: systems
+  size: 31
+- conference: OSDI
+  year: 2022
+  conf_year: osdi2022
+  area: systems
+  size: 119
+- conference: OSDI
+  year: 2023
+  conf_year: osdi2023
+  area: systems
+  size: 4
+- conference: OSDI
+  year: 2024
+  conf_year: osdi2024
+  area: systems
+  size: 130
+- conference: OSDI
+  year: 2025
+  conf_year: osdi2025
+  area: systems
+  size: 172
+- conference: PETS
+  year: 2020
+  conf_year: pets2020
+  area: security
+  size: 17
+- conference: PETS
+  year: 2021
+  conf_year: pets2021
+  area: security
+  size: 13
+- conference: PETS
+  year: 2022
+  conf_year: pets2022
+  area: security
+  size: 25
+- conference: PETS
+  year: 2023
+  conf_year: pets2023
+  area: security
+  size: 19
+- conference: PETS
+  year: 2024
+  conf_year: pets2024
+  area: security
+  size: 52
+- conference: PETS
+  year: 2025
+  conf_year: pets2025
+  area: security
+  size: 72
+- conference: PETS
+  year: 2026
+  conf_year: pets2026
+  area: security
+  size: 65
+- conference: SC
+  year: 2021
+  conf_year: sc2021
+  area: systems
+  size: 61
+- conference: SOSP
+  year: 2021
+  conf_year: sosp2021
+  area: systems
+  size: 94
+- conference: SOSP
+  year: 2023
+  conf_year: sosp2023
+  area: systems
+  size: 93
+- conference: SOSP
+  year: 2024
+  conf_year: sosp2024
+  area: systems
+  size: 2
+- conference: SOSP
+  year: 2025
+  conf_year: sosp2025
+  area: systems
+  size: 3
+- conference: SOSP
+  year: 2026
+  conf_year: sosp2026
+  area: systems
+  size: 2
+- conference: SYSTEX
+  year: 2025
+  conf_year: systex2025
+  area: security
+  size: 6
+- conference: USENIXSEC
+  year: 2020
+  conf_year: usenixsec2020
+  area: security
+  size: 37
+- conference: USENIXSEC
+  year: 2021
+  conf_year: usenixsec2021
+  area: security
+  size: 45
+- conference: USENIXSEC
+  year: 2022
+  conf_year: usenixsec2022
+  area: security
+  size: 106
+- conference: USENIXSEC
+  year: 2023
+  conf_year: usenixsec2023
+  area: security
+  size: 140
+- conference: USENIXSEC
+  year: 2024
+  conf_year: usenixsec2024
+  area: security
+  size: 143
+- conference: USENIXSEC
+  year: 2025
+  conf_year: usenixsec2025
+  area: security
+  size: 252
+- conference: USENIXSEC
+  year: 2026
+  conf_year: usenixsec2026
+  area: security
+  size: 226
+- conference: WOOT
+  year: 2024
+  conf_year: woot2024
+  area: security
+  size: 24
+- conference: WOOT
+  year: 2025
+  conf_year: woot2025
+  area: security
+  size: 16

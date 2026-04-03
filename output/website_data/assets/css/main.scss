@@ -1,0 +1,226 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+// Widen the page content area to use more horizontal space
+$max-width: 1600px !default;
+$right-sidebar-width-narrow: 0px !default;
+$right-sidebar-width: 0px !default;
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// Reduce base font size on desktop screens (theme defaults: 16px / 18px large)
+html {
+  font-size: 14px;
+  @media (min-width: 64em) {   // $large  – 1024px
+    font-size: 15px;
+  }
+  @media (min-width: 80em) {   // $x-large – 1280px
+    font-size: 16px;
+  }
+}
+
+// Make the single layout page content wider and start further left
+.page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+}
+
+.page__inner-wrap {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+// On wide screens, ensure full width is used
+.wide .page {
+  max-width: 100%;
+  padding-right: 0;
+}
+
+// Remove right sidebar space and push content left
+.sidebar__right {
+  display: none;
+}
+
+#main {
+  max-width: 100%;
+  padding-left: 0;
+}
+
+// Masthead - center like content
+.masthead__inner-wrap {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+// Dropdown submenus for masthead navigation
+// Override theme's overflow:hidden on .visible-links which clips dropdowns
+.greedy-nav .visible-links {
+  overflow: visible;
+}
+.masthead__menu-item--has-children {
+  position: relative;
+}
+.masthead__submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 100;
+  background: #fff;
+  border: 1px solid #ddd;
+  min-width: 160px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+.masthead__menu-item--has-children:hover .masthead__submenu {
+  display: block;
+}
+.masthead__submenu li a {
+  display: block;
+  padding: 0.4em 1em;
+  font-size: 0.85em;
+  color: #333;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.masthead__submenu li a:hover {
+  background: #f2f2f2;
+}
+
+/* Mobile hamburger menu styling */
+/* greedy-nav must be relative so hamburger-menu can drop down absolutely */
+.greedy-nav {
+  position: relative;
+}
+#hamburger-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /* Drop down below the nav bar */
+  position: absolute;
+  top: 100%;
+  right: 0;
+  z-index: 200;
+  min-width: 220px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  overflow: visible;
+}
+/* Initially hidden */
+#hamburger-menu.hidden {
+  display: none;
+}
+/* Shown when toggle opens it */
+#hamburger-menu:not(.hidden) {
+  display: block;
+}
+#hamburger-menu .masthead__menu-item {
+  border-bottom: 1px solid #eee;
+  padding: 0;
+  margin: 0;
+}
+#hamburger-menu .masthead__menu-item:last-child {
+  border-bottom: none;
+}
+#hamburger-menu > li > a {
+  display: block;
+  padding: 0.7em 1em;
+  font-size: 0.9em;
+  color: #333;
+  text-decoration: none;
+}
+#hamburger-menu > li > a:hover {
+  background: #f0f0f0;
+}
+
+/* Submenus inside hamburger: stack vertically, no absolute positioning */
+#hamburger-menu .masthead__submenu {
+  position: static !important;
+  display: none;
+  background: #f0f0f0;
+  border: none;
+  border-left: 3px solid #ccc;
+  box-shadow: none;
+  min-width: auto;
+}
+#hamburger-menu .masthead__submenu li a {
+  padding: 0.5em 1em 0.5em 1.5em;
+  font-size: 0.85em;
+  color: #555;
+}
+#hamburger-menu .masthead__submenu li a:hover {
+  background: #e8e8e8;
+}
+
+// Responsive navigation: collapse last items on medium screens
+// to give more space for logo, title, and subtitle
+// On large screens (> 1400px): show all 8 items (Overview, Rankings, Systems, Security, AE, RepoStats, Methodology, Contribute + hamburger for conference details)
+// Hamburger toggle: always visible (there are always overflow items)
+.greedy-nav__toggle {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 4px 8px;
+  color: #333;
+}
+
+// Desktop (≥768px): show all items, keep hamburger visible
+@media (min-width: 768px) {
+  .greedy-nav .visible-links > li.masthead__menu-item {
+    display: inline-block;
+  }
+  .greedy-nav__toggle {
+    display: flex !important;
+  }
+}
+
+// Mobile (<768px): hide some items, show hamburger
+@media (max-width: 767px) {
+  // Mobile: hide last 5 (keep only Overview + Ranking)
+  .greedy-nav .visible-links > li.masthead__menu-item:nth-last-child(-n+5) {
+    display: none;
+  }
+  .greedy-nav__toggle {
+    display: flex !important;
+  }
+  
+  /* Compact hamburger menu for very small screens */
+  .greedy-nav .hidden-links a {
+    padding: 0.6em 0.8em;
+    font-size: 0.85em;
+  }
+  .hidden-links .masthead__submenu li a {
+    padding: 0.4em 0.8em 0.4em 1.2em;
+    font-size: 0.8em;
+  }
+}
+
+// Remove footer completely
+#footer,
+.page__footer,
+.page__footer-follow,
+.page__footer-copyright,
+.page__meta {
+  display: none !important;
+}
+
+// Hide "Skip to footer" screen reader shortcut
+a[href="#footer"] {
+  display: none !important;
+}
