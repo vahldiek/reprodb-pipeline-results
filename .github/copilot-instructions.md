@@ -3,7 +3,7 @@
 ## This Repository is 100% Auto-Generated
 
 All files in `output/` are produced by the
-[artifact_analysis](https://github.com/researchartifacts/artifact_analysis) pipeline
+[reprodb-pipeline](https://github.com/reprodb/reprodb-pipeline) pipeline
 and committed via GitHub Actions monthly. **Do not manually edit any generated files.**
 
 To update data, re-run the pipeline — do not patch files directly.

@@ -1,6 +1,6 @@
 # Artifact Analysis Results
 
-This repository records the input, intermediate (cache), and output data from each pipeline run of [researchartifacts/artifact_analysis](https://github.com/researchartifacts/artifact_analysis).
+This repository records the input, intermediate (cache), and output data from each pipeline run of [reprodb/reprodb-pipeline](https://github.com/reprodb/reprodb-pipeline).
 
 Each commit represents a single pipeline run snapshot, allowing reproducible re-analysis based on the same underlying data.
 
