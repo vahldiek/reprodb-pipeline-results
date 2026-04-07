@@ -15081,19 +15081,6 @@
   },
   {
     "title": "PURE: Payments with UWB RElay-protection",
-    "url": "https://github.com/pure-uwb/pure-sec-rel/tree/77cc1792f79bec02b59168ee922dfe335c972ad3",
-    "conference": "USENIXSEC",
-    "year": 2024,
-    "area": "security",
-    "stars": 1,
-    "forks": 1,
-    "description": "",
-    "language": "Python",
-    "name": "pure-uwb/pure-sec-rel",
-    "pushed_at": "2024-05-27T08:41:21Z"
-  },
-  {
-    "title": "PURE: Payments with UWB RElay-protection",
     "url": "https://github.com/pure-uwb/pure-models/tree/8aef1c0254642b476d9736ae5770c1992e620b27",
     "conference": "USENIXSEC",
     "year": 2024,
@@ -15104,6 +15091,19 @@
     "language": "Python",
     "name": "pure-uwb/pure-models",
     "pushed_at": "2024-06-06T23:54:06Z"
+  },
+  {
+    "title": "PURE: Payments with UWB RElay-protection",
+    "url": "https://github.com/pure-uwb/pure-sec-rel/tree/77cc1792f79bec02b59168ee922dfe335c972ad3",
+    "conference": "USENIXSEC",
+    "year": 2024,
+    "area": "security",
+    "stars": 1,
+    "forks": 1,
+    "description": "",
+    "language": "Python",
+    "name": "pure-uwb/pure-sec-rel",
+    "pushed_at": "2024-05-27T08:41:21Z"
   },
   {
     "title": "SoK: Security of Programmable Logic Controllers",
