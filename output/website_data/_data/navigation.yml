@@ -82,3 +82,12 @@ main:
     url: methodology.html
   - title: "Contribute"
     url: about.html
+    children:
+      - title: "Overview"
+        url: about.html
+      - title: "Repositories"
+        url: https://github.com/reprodb
+      - title: "Documentation"
+        url: https://reprodb.github.io/reprodb-pipeline/
+      - title: "Data Schemas"
+        url: https://reprodb.github.io/data-schemas/
