@@ -16,3 +16,7 @@ input/
   run_metadata.txt  # Git revisions, timestamps, cache version
 ```
 
+## License
+
+Creative Commons Attribution 4.0 International — see [LICENSE](LICENSE) for details.
+
