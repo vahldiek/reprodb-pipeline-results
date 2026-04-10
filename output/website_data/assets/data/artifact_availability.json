@@ -1,9 +1,9 @@
 {
   "summary": {
-    "checked_at": "2026-03-20 09:11:29 UTC",
-    "total_urls": 2336,
-    "accessible_urls": 2254,
-    "accessibility_pct": 96.5,
+    "checked_at": "2026-04-09 20:40:07 UTC",
+    "total_urls": 2479,
+    "accessible_urls": 2398,
+    "accessibility_pct": 96.7,
     "by_platform": {
       "Bitbucket": {
         "total": 9,
@@ -16,8 +16,8 @@
         "pct": 92.9
       },
       "Figshare": {
-        "total": 31,
-        "accessible": 31,
+        "total": 37,
+        "accessible": 37,
         "pct": 100.0
       },
       "GitHub": {
@@ -31,26 +31,26 @@
         "pct": 100.0
       },
       "Zenodo": {
-        "total": 748,
-        "accessible": 741,
-        "pct": 99.1
+        "total": 882,
+        "accessible": 873,
+        "pct": 99.0
       },
       "other": {
-        "total": 283,
-        "accessible": 243,
-        "pct": 85.9
+        "total": 286,
+        "accessible": 249,
+        "pct": 87.1
       }
     },
     "by_area": {
       "security": {
-        "total": 1799,
-        "accessible": 1742,
-        "pct": 96.8
+        "total": 1954,
+        "accessible": 1897,
+        "pct": 97.1
       },
       "systems": {
-        "total": 537,
-        "accessible": 512,
-        "pct": 95.3
+        "total": 525,
+        "accessible": 501,
+        "pct": 95.4
       }
     },
     "by_year": {
@@ -71,13 +71,13 @@
       },
       "2020": {
         "total": 132,
-        "accessible": 122,
-        "pct": 92.4
+        "accessible": 124,
+        "pct": 93.9
       },
       "2021": {
         "total": 144,
-        "accessible": 139,
-        "pct": 96.5
+        "accessible": 140,
+        "pct": 97.2
       },
       "2022": {
         "total": 376,
@@ -100,9 +100,9 @@
         "pct": 99.2
       },
       "2026": {
-        "total": 157,
-        "accessible": 156,
-        "pct": 99.4
+        "total": 300,
+        "accessible": 297,
+        "pct": 99.0
       }
     },
     "by_year_area": {
@@ -130,8 +130,8 @@
       "2020": {
         "security": {
           "total": 84,
-          "accessible": 79,
-          "pct": 94.0
+          "accessible": 81,
+          "pct": 96.4
         },
         "systems": {
           "total": 48,
@@ -147,8 +147,8 @@
         },
         "systems": {
           "total": 47,
-          "accessible": 45,
-          "pct": 95.7
+          "accessible": 46,
+          "pct": 97.9
         }
       },
       "2022": {
@@ -177,33 +177,33 @@
       },
       "2024": {
         "security": {
-          "total": 334,
-          "accessible": 315,
-          "pct": 94.3
+          "total": 341,
+          "accessible": 322,
+          "pct": 94.4
         },
         "systems": {
-          "total": 145,
-          "accessible": 139,
-          "pct": 95.9
+          "total": 138,
+          "accessible": 132,
+          "pct": 95.7
         }
       },
       "2025": {
         "security": {
-          "total": 583,
-          "accessible": 579,
+          "total": 588,
+          "accessible": 584,
           "pct": 99.3
         },
         "systems": {
-          "total": 49,
-          "accessible": 48,
-          "pct": 98.0
+          "total": 44,
+          "accessible": 43,
+          "pct": 97.7
         }
       },
       "2026": {
         "security": {
-          "total": 157,
-          "accessible": 156,
-          "pct": 99.4
+          "total": 300,
+          "accessible": 297,
+          "pct": 99.0
         }
       }
     },
@@ -287,8 +287,8 @@
         },
         "other": {
           "total": 26,
-          "accessible": 21,
-          "pct": 80.8
+          "accessible": 23,
+          "pct": 88.5
         }
       },
       "2021": {
@@ -309,8 +309,8 @@
         },
         "other": {
           "total": 36,
-          "accessible": 33,
-          "pct": 91.7
+          "accessible": 34,
+          "pct": 94.4
         }
       },
       "2022": {
@@ -463,8 +463,8 @@
           "pct": 100.0
         },
         "Figshare": {
-          "total": 1,
-          "accessible": 1,
+          "total": 7,
+          "accessible": 7,
           "pct": 100.0
         },
         "GitHub": {
@@ -473,13 +473,13 @@
           "pct": 100.0
         },
         "Zenodo": {
-          "total": 112,
-          "accessible": 111,
-          "pct": 99.1
+          "total": 246,
+          "accessible": 243,
+          "pct": 98.8
         },
         "other": {
-          "total": 4,
-          "accessible": 4,
+          "total": 7,
+          "accessible": 7,
           "pct": 100.0
         }
       }
@@ -512,13 +512,13 @@
       },
       "OSDI": {
         "total": 173,
-        "accessible": 161,
-        "pct": 93.1
+        "accessible": 162,
+        "pct": 93.6
       },
       "PETS": {
         "total": 360,
-        "accessible": 350,
-        "pct": 97.2
+        "accessible": 352,
+        "pct": 97.8
       },
       "SOSP": {
         "total": 25,
@@ -531,9 +531,9 @@
         "pct": 100.0
       },
       "USENIXSEC": {
-        "total": 827,
-        "accessible": 821,
-        "pct": 99.3
+        "total": 970,
+        "accessible": 962,
+        "pct": 99.2
       },
       "WOOT": {
         "total": 46,
@@ -4461,7 +4461,7 @@
       "url_key": "repository_url",
       "url": "http://nyx.skku.ac.kr/?page_id=2808",
       "platform": "other",
-      "accessible": false
+      "accessible": true
     },
     {
       "conference": "OSDI",
@@ -11581,7 +11581,7 @@
       "url_key": "artifact_url",
       "url": "https://athinagroup.eng.uci.edu/projects/nomoads/",
       "platform": "other",
-      "accessible": false
+      "accessible": true
     },
     {
       "conference": "PETS",
@@ -11591,7 +11591,7 @@
       "url_key": "artifact_url",
       "url": "https://athinagroup.eng.uci.edu/projects/smarttv/",
       "platform": "other",
-      "accessible": false
+      "accessible": true
     },
     {
       "conference": "PETS",
@@ -15056,7 +15056,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "Delegating Verification for Remote Attestation using TEE",
       "url_key": "artifact_url",
       "url": "https://github.com/hatena75/ProxyVerifier_QVS/tree/49fbc48af05806f9cea76bd0f56fc40ce729bad0",
@@ -15066,7 +15066,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "duet: Combining a Trustworthy Controller with a Confidential Computing Environment",
       "url_key": "artifact_url",
       "url": "https://github.com/Nokia-Bell-Labs/tee-duet/tree/9eb44fe5e1b60519656b93630b9f5cbf5a111861",
@@ -15076,7 +15076,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "NetReach: Guaranteed Network Availability and Reachability to enable Resilient Networks for  Embedded Systems",
       "url_key": "artifact_url",
       "url": "https://gitlab.com/distrinet-netreach/documentation/-/tree/systex-2024",
@@ -15086,7 +15086,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "PraaS: Verifiable Proofs of Property as-a-Service with Intel SGX",
       "url_key": "artifact_url",
       "url": "https://github.com/Nokia-Bell-Labs/proof-as-a-service/tree/1e24dce47fd468e56ebc3ad2b55c093c412b866d",
@@ -15096,7 +15096,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "Revisiting Rollbacks on Smart Contracts in TEE-protected Private Blockchains",
       "url_key": "artifact_url",
       "url": "https://github.com/chenchanglew/systex2024/tree/2bd229b4d4c4e6be9648c411aa8e4d744eff3524",
@@ -15106,7 +15106,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "Secure Intermittent Computing with ARM TrustZone on the Cortex-M",
       "url_key": "artifact_url",
       "url": "https://github.com/ptrchv/STM32-IntermittentSecurity/tree/systex2024_submission",
@@ -15116,7 +15116,7 @@
     {
       "conference": "SYSTEX",
       "year": 2024,
-      "area": "systems",
+      "area": "security",
       "title": "SNPGuard: Remote Attestation of SEV-SNP VMs Using Open Source Tools",
       "url_key": "artifact_url",
       "url": "https://github.com/SNPGuard/snp-guard/tree/v0.1.3",
@@ -15126,7 +15126,7 @@
     {
       "conference": "SYSTEX",
       "year": 2025,
-      "area": "systems",
+      "area": "security",
       "title": "An Early Experience with Confidential Computing Architecture for On-Device Model Protection",
       "url_key": "artifact_url",
       "url": "https://github.com/comet-cc/CCA-Evaluation/tree/SysTEX25",
@@ -15136,7 +15136,7 @@
     {
       "conference": "SYSTEX",
       "year": 2025,
-      "area": "systems",
+      "area": "security",
       "title": "Enclave Application Cache for RISC-V Keystone",
       "url_key": "artifact_url",
       "url": "https://github.com/Nanamiiiii/keystone-ecache/tree/systex-2025",
@@ -15146,7 +15146,7 @@
     {
       "conference": "SYSTEX",
       "year": 2025,
-      "area": "systems",
+      "area": "security",
       "title": "End-to-End Confidentiality with SEV-SNP Leveraging In-Memory Storage",
       "url_key": "artifact_url",
       "url": "https://github.com/lorenzobrescia/snp-guard-in-memory-storage/tree/v1.0.0",
@@ -15156,7 +15156,7 @@
     {
       "conference": "SYSTEX",
       "year": 2025,
-      "area": "systems",
+      "area": "security",
       "title": "Principled Symbolic Validation of Enclaves on Low-End Microcontrollers",
       "url_key": "artifact_url",
       "url": "https://github.com/pandora-tee/pandora-examples/tree/systex25-artifact/sancus",
@@ -15166,7 +15166,7 @@
     {
       "conference": "SYSTEX",
       "year": 2025,
-      "area": "systems",
+      "area": "security",
       "title": "Wait a Cycle: Eroding Cryptographic Trust in Low-End TEEs via Timing Side Channels",
       "url_key": "artifact_url",
       "url": "https://github.com/dnet-tee/wait-a-cycle/tree/systex25-artifacts",
@@ -23440,6 +23440,1436 @@
       "title": "Red Bleed: A Pragmatic Near-Infrared Presentation Attack on Facial Biometric Authentication Systems",
       "url_key": "artifact_url",
       "url": "https://doi.org/10.5281/zenodo.15621762",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Imitative Membership Inference Attack",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17885393",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "VeCT: Secure and Efficient Constant-Time Code Rewriting with Vector Extensions",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17822446",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Hydrangea: Optimistic Two-Round Partial Synchrony with Improved Fault Resilience",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17823671",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "From Easy to Hard++: Promoting Differentially Private Image Synthesis Through Spatial-Frequency Curriculum",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17836341",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Opossum Attack: Application Layer Desynchronization using Opportunistic TLS",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17855525",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "DaLens: Charting DNS Self-Amplification Threats at Large",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17832418?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjcwODJiYTc3LTM0NGQtNDM4Yy1iYTViLTUyNGZiNWIyNWMxYSIsImRhdGEiOnt9LCJyYW5kb20iOiJlMjJmNjljNTY1ZjhlYjJkMzc4NjZmYWM1ZTE4MzU1YSJ9.sPg2-LLE5v8W7qpHYgR_XfLdD01t0NJr7erzGAYetwo-Z1YZdlcHNS0gWhF4XlcwO39IBUtnfPA95q3D__mNhg",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "FABRICKED: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17830021?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjJjNWQ1NjNiLTBhNmYtNGFkNC1hZTc1LTBkNzhiZTM5NWE4MiIsImRhdGEiOnt9LCJyYW5kb20iOiI4NjNiYTllZDUzYjdlZWVhMGVkOWViY2FjZmFiOTYxMyJ9.AKbLNlVmhYXwQB1PXsnV10wQ1CSRKlk010zBUm3F_BkZIy3UTvBFufFp2rvvy_mS5N_HadOWdj1EJKLtcz5l8Q",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Quantifying Large Language Model Attacks Through the Lens of Model Cognition",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17875176",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "A Midsummer Meme\u2019s Dream: Investigating Market Manipulations in the Meme Coin Ecosystem",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17830943",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Arguzz: Testing zkVMs for Soundness and Completeness Bugs",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.16939845",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "WILD Attack: Stealthy Undermining of Wi-Fi-Based Geolocation Through Remote Crowdsourced Data Injection",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17834160",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Distributed Vector Commitments and Their Applications",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17863157",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Logos: Robust Sharding Blockchain With Fast Processing and Optimal Cross-Shard Overhead",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17855927",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "mmCipher: Batching Post-Quantum Public Key Encryption Made Bandwidth-Optimal",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17849532",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "XGuardian: Towards Explainable and Generalized AI Anti-Cheat on FPS Games",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17845613",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Overcoming the Retrieval Barrier: Indirect Prompt Injection in the Wild for LLM Systems",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17968523",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "A Distortion-minimization Watermarking Framework for Large Language Models: Larger Capacity, Stronger Robustness and Higher Quality",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18242631",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Jailbreaking the AMD Secure Processor: Enabling Live Analysis of SEV-SNPs Undocumented Security Boundaries",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17865002?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjUyZTI0YmM4LTRjM2UtNDA0MC04YWZhLWE4OGYzODQyYzZmNCIsImRhdGEiOnt9LCJyYW5kb20iOiIzODUzODNmM2RhNGVhMzk4YjRiZTgxNmU2N2VhOTNlZCJ9.lvetSy26gHlQ0thGQwDgr0Ira1FFPZ8DLn3hfoyQWpVE-bWoCWNKh_i2am8sEfjTLnZGxcoZoKCrNVG32kK3_w",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Sirens Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17851194",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "CuSafe: Capturing Memory Corruption on NVIDIA GPUs",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.6084/m9.figshare.30821396",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Interpolation-Based Optimization for Enforcing lp-Norm Metric Differential Privacy in Continuous and Fine-Grained Domains",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17851733",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "KernelRCA: Facilitating Root Cause Analysis of Memory Corruptions in Linux Kernel with Contextual Causality Chain",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/18410035",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Behind Bars: A Side-Channel Attack on NVIDIA MIG Cache Partitioning Using Memory Barriers",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17861917",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Shred-to-Shine Metamorphosis of (Distributed) Polynomial Commitments",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17867141",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "TIMESLICE-SANDWICH: A GPU Side-Channel Attack Exploiting Time-Sliced Scheduling",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17987226",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "A Large-Scale Study of Personalized Phishing using Large Language Models",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17882184",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Identifying Provenance of Generative Text-to-Image Models",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17870201",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Residual-PAC Privacy: Automatic Privacy Control Beyond the Gaussian Barrier",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17871622",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Inconsistent, Incomplete, and Insecure: A Survey of Account Security Interfaces",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17880685",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Distributed Synthesis of Differentially Private Tabular Datasets",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18218427",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Bridges to Self: Silent Web-to-App Tracking on Mobile via Localhost",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17880051",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "M-Step: A Single-Stepping Framework for Side-Channel Analysis on TrustZone-M",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17910184",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17898769",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "FABS: Fast Attribute-Based Signatures",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17882304",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Transparent Dictionaries from Polynomial Commitments",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17901509",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "MULCOTAINT: Towards Efficient Multi-tag Dynamic Taint Analysis via Hardware/Software Co-design",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.17939551",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Quorus: Efficient, Scalable Threshold ML-DSA Signatures from MPC",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17888654",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "E2E-AKMA: An End-to-End Secure and Privacy-Enhancing AKMA Protocol Against the Anchor Function Compromise",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17972924",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "The Art of Hide and Seek: Making Pickle-Based Model Supply Chain Poisoning Stealthy Again",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17895474",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Sy-FAR: Symmetry-based Fair Adversarial Robustness",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17878074",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Static Detection of TOCTOU Bugs Caused by Kernel Races",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17898451",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "WAVED: Principled Identification of Off-Path Exploitable Weak Verifications within the TCP/IP Protocol Suite",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17896119",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "TrojPix: Electromagnetic Covert Channels via Imperceptible Pixel Modulation",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17905407",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Analyzing the WebRTC Ecosystem and Breaking Authentication in DTLS-SRTP",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17880120",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "From Mirai to Gorilla: Deep Dive into a Long-Lasting DDoS-for-Hire Botnet",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17886098",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Unlocking the True Potential of Decryption Failure Oracles: A Hybrid Adaptive-LDPC Attack on ML-KEM Using Imperfect Oracles",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17899501",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Fend for Yourself! Backdoor Purification in Federated Graph Learning with an Evolving Knowledge Anchor",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17898577",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "InstrSem: Automatically and Generically Inferring Semantics of (Undocumented) CPU Instructions",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17974657",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Garuda and Pari: Faster and Smaller SNARKs via Equifficient Polynomial Commitments",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17970155",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Differential Trust: Dynamic Multi-Authority Anonymous Credentials with Epoch-Weighted Updates",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17905110",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Can we estimate privacy vulnerability of individual records? Towards Mitigating Attribute Inference Attacks on ML Models",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17905132",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Provable Secure Steganography Based on Adaptive Dynamic Sampling",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17906788",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Anonymous Tokens with Designated-Reader Metadata Bit",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17946122",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "ZipPIR: High-throughput Single-server PIR without Client-side Storage",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17907224",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "vCause: Efficient and Verifiable Causality Analysis for Cloud-based Endpoint Auditing",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17908629",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Streaming Function Secret Sharing and Its Applications",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17910080",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Silicon Heist: (Ransom) Attacks for Cloud FPGAs via Privilege Escalation",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/16950451?preview=1&token=eyJhbGciOiJIUzUxMiIsImlhdCI6MTc2NTU1ODUxMiwiZXhwIjoxNzY5ODE3NTk5fQ.eyJpZCI6IjRkZGM5ZTlkLTYyZGYtNGI0MS05ZDBkLWVkYWE5OTkzMThjNyIsImRhdGEiOnt9LCJyYW5kb20iOiJjZGRiOWY0NTkxNmNkNzVjN2ZjZjQxMWY5YmNiNGFiMiJ9.MV3dodwYMOyc_EXrc26mJenL2yQU7qpS5tlBJ_LnFTSGh8rtFNujaqRqIEK8Utp77lsL-B3lOMBoQOXczI3fEA",
+      "platform": "Zenodo",
+      "accessible": false
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Membership Inference Attacks on Tokenizers of Large Language Models",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18080228",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "VidLeaks: Membership Inference Attacks Against Text-to-Video Models",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17972831",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Scribe: Low-memory SNARKs via Read-Write Streaming",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/uploads/17957696",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "BADControl: Backdoor Attacks Against Control Systems",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17932677",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "The Prompt Stealing Fallacy: Rethinking Metrics, Attacks, and Defenses",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17934144?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA5ZTI2NGZlLTY3MWItNGNjMS04NjJhLTRmODhkZDMzODhjYiIsImRhdGEiOnt9LCJyYW5kb20iOiJiMjVmMjg5NjlmZTViZWNlMWJiZjhlYjlkYjM2M2NkMCJ9.E2lMNJQraHOFiY4BPU3oTO5k5iBj-hIIqRpbbTsRz0jDA5JpVKWhVYafDyooiq6XLhzsDoFpCJOr4xnldRCM2Q",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Efficient and High-Accuracy Secure Two-Party Protocols for a Class of Functions with Real-number Inputs",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17936337",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "From Texts to Rules: Generating Sigma Rules with Large Language Models from Cyber Threat Reports",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17970580",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Side-Channel Attacks on Open vSwitch",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17965902",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Efficient Threshold ML-DSA",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17963722",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "B-Privacy: Defining and Enforcing Privacy in Weighted Voting",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17965708",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "FIRA: Enabling Automatic Forensic Investigation of Unmanned Aerial Vehicles",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18395925",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Nudge: A Private Recommendations Engine",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17968761",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "BatchBoot: Fast Batched Bootstrapping for TFHE scheme and Practical Applications",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17936945",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Inference Attacks Against Graph Generative Diffusion Models",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17946102",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Autonomy Comes with Costs: Detecting Denial-of-Service Vulnerabilities Caused by Resource Abusing in LLM-based Agents",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17947230",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Source Code: Assumption-Free Fuzzy PSI via Predicate Encryption",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17936990",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "DMGuard: Safeguarding Kernels from Physical-Page Use-After-Free Vulnerabilities",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17970502",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Secure Protocol Composition under Dynamic Corruption: Models and Proofs",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.6084/m9.figshare.29958290",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "ARM MTE Performance in Practice",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17953065",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "'Abuse Risks are Often Inherent to Product Features': Exploring AI Vendors\u2019 Bug Bounty and Responsible Disclosure Policies",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17957266",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Hop: A Modern Transport and Remote Access Protocol",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17953396",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "CombiSan: Unifying Software Sanitizers for Comprehensive Fuzzing",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/16949365",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "TAT: Attesting Trajectory Integrity of Industrial Robotic Arms",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18047962",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "VSG-Safe: Spotting NSFW Video through Cross-Frame Evidence",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.6084/m9.figshare.30902915",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "End-to-End Encrypted Collaborative Documents",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17973972",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Chameleon Channels: Measuring YouTube Accounts Repurposed for Deception and Profit",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17955052",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Shadowfax: Hybrid Security and Deniability for AKEMs",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/18939418",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Bridging Bitcoin to Second Layers via BitVM2",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17949747",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Attacks on Approximate Caches in Text-to-Image Diffusion Models",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17957900",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "SophOMR: Improved Oblivious Message Retrieval from SIMD-Aware Homomorphic Compression",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17958466",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Invariant-Guided Logical Testing of Open RAN Controllers",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17969521",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "PANGOLIN: Fuzzing Multilingual IoT Firmware with LLM-Driven Code Analysis",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.6084/m9.figshare.30904379",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "RBOOT: Accelerating Homomorphic Neural Network Inference by Fusing ReLU within Bootstrapping",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17960273",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Turn Your Face Into An Attack Surface: Screen Attack Using Facial Reflections in Video Conferencing",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/16925324",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "PICS: Private Intersection over Committed (and reusable) Sets",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17958838",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "On Evaluating the Robustness of Large Vision-Language Models via Untargeted Modality Alignment Breaking Adversarial Attack",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17958814",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Ajax: Fast Threshold Fully Homomorphic Encryption without Noise Flooding",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17963095",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "V\u03b5rity: Verifiable Local Differential Privacy",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17959962",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Leveraging Cryptographic Simulator Synthesis for Formally Verifying the FOO E-Voting Protocol -- Artifacts",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17880702",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Libra: Pattern-Scheduling Co-Optimization for Cross-Scheme FHE Code Generation over GPGPU",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17962002",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "InstantOMR: Oblivious Message Retrieval with Low Latency and Optimal Parallelizability",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17959835",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "PrivacyShield: Relaying BLE Beacons to Counter Unsolicited Tracking",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17964520",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "SoK: PHILTER: Uncovering Security and Functional Gaps in AI-based Phishing Website Detection Literature via an LLM-based Reasoning Framework",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17964375",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Lethe: Purifying Backdoored Large Language Models with Knowledge Dilution",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17960577",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Sliding into the Flight Deck\u2019s DMs: Practical Message Attacks on CPDLC",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17964693",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "SafeFFI: Efficient Sanitization at the Boundary Between Safe and Unsafe Code in Rust and Mixed-Language Applications",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17976648",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17929520",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "OS-Sanitizer: System-wide Latent Defect Inference in Linux Applications",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17979528",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "DDR-SSE: Duplicated Retrieval of Documents for System-wide Secure Searchable Symmetric Encryption",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17965794",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Security and Privacy Analysis of Tile\u2019s Location Tracking Protocol",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17966636?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZhM2JkYWI5LTYzMGEtNDEwNy1iOWNkLTE2YzY5OTc0ODEzOCIsImRhdGEiOnt9LCJyYW5kb20iOiIyYWJlMGI3ZmI2MmI2NWZmYjMwOTU5MDIwYTkwOWY4MSJ9.bdRa0H3U9fKDIriW_Gi-Cb6Lx44LUV-0yyFiT2iZxsOxZtzUwpH4SdUXuOkhnrTqaXbCRa070Tp6cu7YQS21OQ",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "PROBE+DETECT+MITIGATE (PDM): Enabling Cloud Tenants to Self-Defend against Microarchitectural Attacks",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17967755",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "\"Your imaging may be stone-cold normal, but if they look sick, they\u2019re going to get admitted\": An Investigation of Clinicians\u2019 Perceptions of Impact & Likelihood of Security Failures",
+      "url_key": "artifact_url",
+      "url": "https://osf.io/ahjp3/overview?view_only=8442f58f00ca4dfdbf2ed2dfa90baba0",
+      "platform": "other",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "HAMLOCK: HArdware-Model LOgically Combined attacK",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17980434",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Digital Risks and Coping Practices among Roblox Game Creators",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17926420",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Window-based Membership Inference Attacks Against Fine-tuned Large Language Models",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17968678",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "The Adverse Effects of Omitting Records in Differential Privacy: How Sampling and Suppression Degrade the Privacy\u2013Utility Tradeoff (USENIX Security 2026 Artifact)",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17977527",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Why Johnny Adopts Identity-Based Software Signing: A Usability Case Study of Sigstore",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17969423",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "IoT Product Page Data",
+      "url_key": "artifact_url",
+      "url": "https://figshare.com/s/1064824a8f2a72c0e4f5",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Unbalanced Fuzzy Private Set Intersection for $L_{\\infty}$ Distance: Achieving Sublinear Communication with Large Set Size",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17982106",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "NOIR: Privacy-Preserving Generation of Code with Open-Source LLMs",
+      "url_key": "artifact_url",
+      "url": "https://tinyurl.com/NOIR-Artifact",
+      "platform": "other",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Artifacts for BLE Theft Auto: Evaluating the Security of Aftermarket BLE-based Automotive Remote Control Systems",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17970344",
+      "platform": "Zenodo",
+      "accessible": false
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "JailbreakScope: Interpreting Jailbreak Mechanism through Representation and Circuit Analyses",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17971644",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Patch-Guided Vulnerability Detection: Extracting Java API Security Rules via Attack\u2013Defense Cross-Analysis",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17972522",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Revealing the Dark Side of Smart Accounts: An Empirical Study of EIP-7702 Incurred Risks in Blockchain Ecosystem",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17895541",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Love, Lies, and Language Models: Investigating AI\u2019s Role in Romance-Baiting Scams",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17984568",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Khost: KVM-based Near Native MCU Firmware Rehosting",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17976459",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "kSFS: Repurposing a Microkernel-like Interface for Fast and Secure In-Kernel Linux File Systems",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17973522",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "ViPer Strike: Defeating Visual Reasoning CAPTCHAs via Structured Vision\u2013Language Inference",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/18191465",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Assessing LLM Response Quality in the Context of Technology-Facilitated Abuse",
+      "url_key": "artifact_url",
+      "url": "https://osf.io/cu253/overview?view_only=62000cfa88e846daba447a07be7cda96",
+      "platform": "other",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Tracegram: Framing Trace-Level Traffic Analysis with Temporally-Aware Multiple Instance Learning",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17978903",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "When Fun Turns Toxic: A First Look at Aggressive Advertising in Mini-games",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17974792",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "SMASH: Scalable Maliciously Secure Hybrid Multi-party Computation Framework for Privacy-Preserving Large Language Models",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17977209?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImUzZjNiZDkzLTllM2ItNGQ1OC1iOTgzLTdjMjIwN2ViYjg0MiIsImRhdGEiOnt9LCJyYW5kb20iOiJkOTk4NmQ3YzBiZjgxYWJlNGU2ZGUzODdjMDk1ODdhMSJ9.7_h-Mt02nThtPUpWf6XfpYQtgrSOreTcFiA5Ogkd2eMdEzKEDL3SmfzphjLjnjW8RWkade-dMWahduhXN0wX6w",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.18019022",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Cracking Federated Privacy: Initialization-Resilient Gradient Inversion with Fine-Grained Reconstruction",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17979356",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Concretely efficient blind signatures based on VOLE-in-the-head proofs and the MAYO trapdoor",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17979640",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Estimating the amount of script-generated traffic in a mixture",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17980327",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Bridging Usability and Performance: A Tensor Compiler for Autovectorizing Homomorphic Encryption",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17957733",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Heli: Heavy-Light Private Aggregation",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17980903",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Network-Level Prompt and Trait Leakage in Local Research Agents",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17981422",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Memclave: Secure In-Memory Enclave for Untrusted Hosts",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17986461",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "When Updates Backfire: A Black-Box Security Analysis of Desktop Software Update Mechanisms",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17982402",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Semantics Over Syntax: Uncovering Pre-Authentication 5G Baseband Vulnerabilities",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/doi/10.5281/zenodo.17984911",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "TopFeaRe: Locating Critical State of Adversarial Resilience for Graphs Regarding Topology-Feature Entanglement",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17920432",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "United We Defend: Collaborative Membership Inference Defenses in Federated Learning",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.5281/zenodo.17982729",
+      "platform": "Zenodo",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "FirmReBugger: A Benchmark Framework for Monolithic Firmware Fuzzers",
+      "url_key": "artifact_url",
+      "url": "https://doi.org/10.6084/m9.figshare.31205056",
+      "platform": "Figshare",
+      "accessible": true
+    },
+    {
+      "conference": "USENIXSEC",
+      "year": 2026,
+      "area": "security",
+      "title": "Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact",
+      "url_key": "artifact_url",
+      "url": "https://zenodo.org/records/17984167",
       "platform": "Zenodo",
       "accessible": true
     },

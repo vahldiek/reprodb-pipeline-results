@@ -1,12 +1,18 @@
 Pipeline Run Summary
 ====================
-Timestamp: 2026-04-09T19:20:39Z
+Timestamp: 2026-04-10T18:35:42Z
 Status: SUCCESS
 
 Generated Outputs:
-- Statistics data
-- Repository statistics
-- Visualizations
-- Per-area author data
-- Combined rankings
-- Institution rankings
+- Statistics data (artifacts.json, summary.json)
+- Repository statistics (repo_stats.yml, repo_stats_detail.json)
+- Per-area author data (*_authors.json, *_conf_authors.json)
+- Combined rankings (*_combined_rankings.json)
+- Institution rankings (*_institution_rankings.json)
+- Author profiles (author_profiles.json)
+- Search data (search_data.json)
+- Ranking history (ranking_history.json)
+
+Consumed Inputs (from DBLP workflow artifact):
+- authors.json, author_index.json, paper_authors_map.json
+- authors.yml, author_summary.yml, papers.json

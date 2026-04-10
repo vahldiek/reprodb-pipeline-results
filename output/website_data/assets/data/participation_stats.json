@@ -158,12 +158,12 @@
       "total_papers": 100,
       "ae_papers": 49,
       "participation_pct": 49.0,
-      "available": 48,
-      "functional": 39,
-      "reproduced": 28,
-      "available_pct": 48.0,
-      "functional_pct": 39.0,
-      "reproduced_pct": 28.0
+      "available": 49,
+      "functional": 40,
+      "reproduced": 29,
+      "available_pct": 49.0,
+      "functional_pct": 40.0,
+      "reproduced_pct": 29.0
     },
     {
       "conference": "CHES",
@@ -305,15 +305,15 @@
       "year": 2025,
       "category": "systems",
       "venue_type": "conference",
-      "total_papers": 121,
+      "total_papers": 126,
       "ae_papers": 45,
-      "participation_pct": 37.2,
+      "participation_pct": 35.7,
       "available": 44,
       "functional": 42,
       "reproduced": 21,
-      "available_pct": 36.4,
-      "functional_pct": 34.7,
-      "reproduced_pct": 17.4
+      "available_pct": 34.9,
+      "functional_pct": 33.3,
+      "reproduced_pct": 16.7
     },
     {
       "conference": "FAST",
@@ -794,31 +794,31 @@
         25.7,
         39.9,
         42.7,
-        48.1
+        47.0
       ],
       "available_pct": [
         67.1,
         33.0,
         24.2,
         38.2,
-        42.4,
-        47.6
+        42.7,
+        46.5
       ],
       "functional_pct": [
         65.7,
         28.4,
         21.2,
         35.9,
-        36.1,
-        42.4
+        36.4,
+        41.4
       ],
       "reproduced_pct": [
         55.7,
         21.5,
         16.8,
         24.7,
-        25.5,
-        24.8
+        25.8,
+        24.2
       ]
     }
   }

@@ -1405,10 +1405,10 @@
     "years": {
       "2020": 1,
       "2021": 4,
+      "2022": 5,
       "2023": 3,
       "2024": 4,
-      "2025": 4,
-      "2022": 5
+      "2025": 4
     }
   },
   {
@@ -1967,6 +1967,38 @@
       "2022": 3,
       "2021": 4,
       "2020": 2
+    }
+  },
+  {
+    "affiliation": "Max Planck Society",
+    "combined_score": 46,
+    "artifact_score": 19,
+    "artifact_citations": 0,
+    "citation_score": 0,
+    "ae_score": 27,
+    "ae_ratio": 0.7,
+    "role": "Balanced",
+    "artifacts": 7,
+    "badges_functional": 7,
+    "badges_reproducible": 5,
+    "ae_memberships": 9,
+    "chair_count": 0,
+    "total_papers": 8,
+    "artifact_rate": 87.5,
+    "num_authors": 10,
+    "conferences": [
+      "ATC",
+      "EUROSYS",
+      "OSDI",
+      "SOSP"
+    ],
+    "years": {
+      "2025": 0,
+      "2024": 4,
+      "2023": 5,
+      "2022": 3,
+      "2021": 1,
+      "2020": 3
     }
   },
   {
@@ -3761,38 +3793,6 @@
     }
   },
   {
-    "affiliation": "Max Planck Institute for Software Systems",
-    "combined_score": 18,
-    "artifact_score": 6,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 12,
-    "ae_ratio": 0.5,
-    "role": "Balanced",
-    "artifacts": 2,
-    "badges_functional": 2,
-    "badges_reproducible": 2,
-    "ae_memberships": 4,
-    "chair_count": 0,
-    "total_papers": 3,
-    "artifact_rate": 66.7,
-    "num_authors": 4,
-    "conferences": [
-      "ATC",
-      "EUROSYS",
-      "OSDI",
-      "SOSP"
-    ],
-    "years": {
-      "2025": 0,
-      "2024": 0,
-      "2023": 1,
-      "2022": 3,
-      "2021": 1,
-      "2020": 1
-    }
-  },
-  {
     "affiliation": "Samsung",
     "combined_score": 18,
     "artifact_score": 0,
@@ -4426,37 +4426,6 @@
     }
   },
   {
-    "affiliation": "Max Planck Society",
-    "combined_score": 13,
-    "artifact_score": 13,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 0,
-    "ae_ratio": null,
-    "role": "Producer",
-    "artifacts": 5,
-    "badges_functional": 5,
-    "badges_reproducible": 3,
-    "ae_memberships": 0,
-    "chair_count": 0,
-    "total_papers": 5,
-    "artifact_rate": 100.0,
-    "num_authors": 3,
-    "conferences": [
-      "EUROSYS",
-      "OSDI",
-      "SOSP"
-    ],
-    "years": {
-      "2025": 0,
-      "2024": 0,
-      "2023": 4,
-      "2022": 0,
-      "2021": 0,
-      "2020": 1
-    }
-  },
-  {
     "affiliation": "Queen's University Belfast",
     "combined_score": 12,
     "artifact_score": 3,
@@ -4853,31 +4822,6 @@
     ],
     "years": {
       "2022": 4
-    }
-  },
-  {
-    "affiliation": "Max Planck Institute for Informatics",
-    "combined_score": 12,
-    "artifact_score": 0,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 12,
-    "ae_ratio": 0.0,
-    "role": "Consumer",
-    "artifacts": 0,
-    "badges_functional": 0,
-    "badges_reproducible": 0,
-    "ae_memberships": 4,
-    "chair_count": 0,
-    "total_papers": 0,
-    "artifact_rate": 0,
-    "num_authors": 2,
-    "conferences": [
-      "ATC",
-      "OSDI"
-    ],
-    "years": {
-      "2024": 4
     }
   },
   {
@@ -7980,8 +7924,8 @@
       "SOSP"
     ],
     "years": {
-      "2022": 1,
-      "2021": 1
+      "2021": 1,
+      "2022": 1
     }
   },
   {
@@ -11559,30 +11503,6 @@
     ],
     "years": {
       "2023": 1
-    }
-  },
-  {
-    "affiliation": "Max Planck Institute for Security and Privacy",
-    "combined_score": 3,
-    "artifact_score": 0,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 3,
-    "ae_ratio": 0.0,
-    "role": "Consumer",
-    "artifacts": 0,
-    "badges_functional": 0,
-    "badges_reproducible": 0,
-    "ae_memberships": 1,
-    "chair_count": 0,
-    "total_papers": 0,
-    "artifact_rate": 0,
-    "num_authors": 1,
-    "conferences": [
-      "OSDI"
-    ],
-    "years": {
-      "2020": 1
     }
   },
   {

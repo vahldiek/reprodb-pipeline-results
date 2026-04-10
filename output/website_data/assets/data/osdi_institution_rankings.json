@@ -740,10 +740,10 @@
     ],
     "years": {
       "2020": 1,
+      "2022": 2,
       "2023": 1,
       "2024": 2,
       "2025": 2,
-      "2022": 2,
       "2021": 1
     }
   },
@@ -918,6 +918,35 @@
       "2021": 4,
       "2020": 1,
       "2025": 2
+    }
+  },
+  {
+    "affiliation": "Max Planck Society",
+    "combined_score": 27,
+    "artifact_score": 6,
+    "artifact_citations": 0,
+    "citation_score": 0,
+    "ae_score": 21,
+    "ae_ratio": 0.29,
+    "role": "Consumer",
+    "artifacts": 2,
+    "badges_functional": 2,
+    "badges_reproducible": 2,
+    "ae_memberships": 7,
+    "chair_count": 0,
+    "total_papers": 3,
+    "artifact_rate": 66.7,
+    "num_authors": 6,
+    "conferences": [
+      "OSDI"
+    ],
+    "years": {
+      "2022": 2,
+      "2024": 3,
+      "2025": 1,
+      "2023": 0,
+      "2021": 0,
+      "2020": 3
     }
   },
   {
@@ -1721,33 +1750,6 @@
       "2023": 0,
       "2022": 1,
       "2021": 1,
-      "2020": 1
-    }
-  },
-  {
-    "affiliation": "Max Planck Institute for Security and Privacy",
-    "combined_score": 12,
-    "artifact_score": 0,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 12,
-    "ae_ratio": 0.0,
-    "role": "Consumer",
-    "artifacts": 0,
-    "badges_functional": 0,
-    "badges_reproducible": 0,
-    "ae_memberships": 4,
-    "chair_count": 0,
-    "total_papers": 0,
-    "artifact_rate": 0,
-    "num_authors": 2,
-    "conferences": [
-      "OSDI"
-    ],
-    "years": {
-      "2022": 1,
-      "2024": 1,
-      "2025": 1,
       "2020": 1
     }
   },
@@ -2589,34 +2591,6 @@
     }
   },
   {
-    "affiliation": "Max Planck Institute for Software Systems",
-    "combined_score": 6,
-    "artifact_score": 3,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 3,
-    "ae_ratio": 1.0,
-    "role": "Balanced",
-    "artifacts": 1,
-    "badges_functional": 1,
-    "badges_reproducible": 1,
-    "ae_memberships": 1,
-    "chair_count": 0,
-    "total_papers": 2,
-    "artifact_rate": 50.0,
-    "num_authors": 1,
-    "conferences": [
-      "OSDI"
-    ],
-    "years": {
-      "2024": 0,
-      "2023": 0,
-      "2022": 1,
-      "2021": 0,
-      "2020": 1
-    }
-  },
-  {
     "affiliation": "Hewlett Packard Labs",
     "combined_score": 6,
     "artifact_score": 0,
@@ -2948,30 +2922,6 @@
     ],
     "years": {
       "2025": 2
-    }
-  },
-  {
-    "affiliation": "Max Planck Institute for Informatics",
-    "combined_score": 6,
-    "artifact_score": 0,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 6,
-    "ae_ratio": 0.0,
-    "role": "Consumer",
-    "artifacts": 0,
-    "badges_functional": 0,
-    "badges_reproducible": 0,
-    "ae_memberships": 2,
-    "chair_count": 0,
-    "total_papers": 0,
-    "artifact_rate": 0,
-    "num_authors": 2,
-    "conferences": [
-      "OSDI"
-    ],
-    "years": {
-      "2024": 2
     }
   },
   {
@@ -3364,34 +3314,6 @@
       "2022": 0,
       "2021": 1,
       "2020": 0
-    }
-  },
-  {
-    "affiliation": "Max Planck Society",
-    "combined_score": 3,
-    "artifact_score": 3,
-    "artifact_citations": 0,
-    "citation_score": 0,
-    "ae_score": 0,
-    "ae_ratio": null,
-    "role": "Producer",
-    "artifacts": 1,
-    "badges_functional": 1,
-    "badges_reproducible": 1,
-    "ae_memberships": 0,
-    "chair_count": 0,
-    "total_papers": 1,
-    "artifact_rate": 100.0,
-    "num_authors": 1,
-    "conferences": [
-      "OSDI"
-    ],
-    "years": {
-      "2024": 0,
-      "2023": 0,
-      "2022": 0,
-      "2021": 0,
-      "2020": 1
     }
   },
   {
