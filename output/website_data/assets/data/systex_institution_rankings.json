@@ -1,27 +1,28 @@
 [
   {
     "affiliation": "KU Leuven",
-    "combined_score": 16,
-    "artifact_score": 0,
+    "combined_score": 20,
+    "artifact_score": 4,
     "artifact_citations": 0,
     "citation_score": 0,
     "ae_score": 16,
-    "ae_ratio": 0.0,
+    "ae_ratio": 0.25,
     "role": "Consumer",
-    "artifacts": 0,
+    "artifacts": 2,
     "badges_functional": 0,
-    "badges_reproducible": 0,
+    "badges_reproducible": 2,
     "ae_memberships": 4,
     "chair_count": 2,
-    "total_papers": 0,
-    "artifact_rate": 0,
+    "total_papers": 2,
+    "artifact_rate": 100.0,
     "num_authors": 4,
     "conferences": [
       "SYSTEX"
     ],
     "years": {
+      "2026": 4,
       "2025": 1,
-      "2026": 3
+      "2024": 0
     }
   },
   {
@@ -72,6 +73,32 @@
     "years": {
       "2025": 1,
       "2026": 1
+    }
+  },
+  {
+    "affiliation": "Huawei",
+    "combined_score": 4,
+    "artifact_score": 4,
+    "artifact_citations": 0,
+    "citation_score": 0,
+    "ae_score": 0,
+    "ae_ratio": null,
+    "role": "Producer",
+    "artifacts": 2,
+    "badges_functional": 0,
+    "badges_reproducible": 2,
+    "ae_memberships": 0,
+    "chair_count": 0,
+    "total_papers": 2,
+    "artifact_rate": 100.0,
+    "num_authors": 1,
+    "conferences": [
+      "SYSTEX"
+    ],
+    "years": {
+      "2026": 2,
+      "2025": 0,
+      "2024": 0
     }
   },
   {
