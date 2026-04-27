@@ -321,8 +321,8 @@ atc2024:
   badges: available,functional,reproduced
   repository_url: https://github.com/shubhamchdhary/TileClipper
   artifact_url: https://doi.org/10.5281/zenodo.11179900
-- title: "A Tale of Two Paths: Toward a Hybrid Data Plane for Ef\uFB01cient Far-Memory\
-    \ Applications"
+- title: 'A Tale of Two Paths: Toward a Hybrid Data Plane for Efﬁcient Far-Memory
+    Applications'
   badges: available,functional,reproduced
   repository_url: https://github.com/FereX98/atlas-ae/tree/main
 - title: 'Starburst: A Cost-aware Scheduler for Cloud Bursting'
@@ -397,7 +397,7 @@ atc2024:
 - title: 'FwdFL: Efficient Federated Finetuning of Language Models'
   badges: available,functional,reproduced
   repository_url: https://github.com/UbiquitousLearning/FwdLLM
-- title: "Power-aware Deep Learning Model Serving with \u03BC-Serve"
+- title: Power-aware Deep Learning Model Serving with μ-Serve
   badges: available,functional,reproduced
   repository_url: https://gitlab.engr.illinois.edu/DEPEND/power-aware-model-serving
 - title: 'Mangosteen: Fast Transparent Durability for Linearizable Applications using
@@ -1288,7 +1288,7 @@ osdi2020:
 - title: 'RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers'
   badges: available,functional,reproduced
   repository_url: https://github.com/netx-repo/RSCS
-- title: "Overload Control for \xB5s-scale RPCs with Breakwater"
+- title: Overload Control for µs-scale RPCs with Breakwater
   badges: available,functional,reproduced
   repository_url: https://github.com/joshuafried/caladan-ae/tree/osdi20ae/breakwater
 - title: 'Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing'
@@ -1467,7 +1467,7 @@ osdi2021:
     on GPUs'
   badges: available,functional,reproduced
   repository_url: https://github.com/YukeWang96/OSDI21_AE.git
-- title: "Rearchitecting Linux Storage Stack for \xB5s latency and High Throughput"
+- title: Rearchitecting Linux Storage Stack for µs latency and High Throughput
   badges: available,functional,reproduced
   repository_url: https://github.com/resource-disaggregation/blk-switch
 - title: 'GoJournal: a verified, concurrent, crash-safe journaling system'
@@ -1534,7 +1534,7 @@ osdi2022:
 - title: Time-Transcendent Debugging the OmniTable Way
   badges: available
   repository_url: https://github.com/arquinn/SteamDrill
-- title: "Achieving \u03BCs-scale Preemption for Concurrent GPU-accelerated DNN Inferences"
+- title: Achieving μs-scale Preemption for Concurrent GPU-accelerated DNN Inferences
   badges: available,functional,reproduced
   repository_url: https://github.com/SJTU-IPADS/reef-artifacts
 - title: 'BlackBox: Secure Containers on Untrusted Operating Systems using Arm Virtualization
@@ -1656,7 +1656,7 @@ osdi2023:
     Systems'
   badges: available,functional,reproduced
   repository_url: https://github.com/secure-foundations/ironsync-osdi2023
-- title: "Ens\u014D: A Streaming Interface for NIC-Application Communication"
+- title: 'Ensō: A Streaming Interface for NIC-Application Communication'
   badges: available,functional,reproduced
   repository_url: https://github.com/crossroadsfpga/enso
 - title: 'BWoS: Formally Verified Block-based Work Stealing for Parallel Processing'
@@ -1789,7 +1789,7 @@ osdi2024:
 - title: 'DSig: Breaking the Barrier of Signatures in Data Centers'
   badges: available,functional,reproduced
   repository_url: https://github.com/LPD-EPFL/dsig-artifacts
-- title: "\U0001D707Slope: High Compression and Fast Search on Semi-Structured Logs"
+- title: '𝜇Slope: High Compression and Fast Search on Semi-Structured Logs'
   badges: available,functional,reproduced
   repository_url: https://zenodo.org/records/11069592
 - title: 'DRust: Language-Guided Distributed Shared Memory with Fine Granularity,
@@ -2405,12 +2405,12 @@ sosp2021:
   badges: Available, Functional, Reproduced
   summary: linefs
   doi: 10.1145/3477132.3483565
-- title: "When Idling is Ideal: Optimizing Tail-Latency for Highly-Dispersed Datacenter\
-    \ Workloads with Pers\xE9phone"
+- title: 'When Idling is Ideal: Optimizing Tail-Latency for Highly-Dispersed Datacenter
+    Workloads with Perséphone'
   github_url: https://github.com/maxdml/psp
   jupyter_url: https://github.com/maxdml/psp/blob/master/sosp_aec/aec.ipynb
   badges: Available, Functional, Reproduced
-  summary: "pers\xE9phone"
+  summary: perséphone
   doi: 10.1145/3477132.3483571
 - title: Exploiting Nil-Externality for Fast Replicated Storage
   bitbucket_url: https://bitbucket.org/aganesan4/skyros/
@@ -3934,8 +3934,8 @@ acsac2025:
 - title: Securing On-device Transformer with Hardware Binding and Reversible Obfuscation
   badges: reproducible
   artifact_url: https://github.com/sarendis56/PUF-Transformer-IP-Protection
-- title: "Fix it - If you Can! Towards Understanding the Impact of Tool Support and\
-    \ Domain Owners\u2019 Reactions to SSHFP Misconfigurations"
+- title: Fix it - If you Can! Towards Understanding the Impact of Tool Support and
+    Domain Owners’ Reactions to SSHFP Misconfigurations
   badges: reproducible
   artifact_url: https://github.com/gehaxelt/SSHFP-Notification-Study-AE
 - title: Compact and Selective Disclosure for Verifiable Credentials
@@ -4065,7 +4065,7 @@ ches2021:
   artifact_url: https://artifacts.iacr.org/tches/2021/a14/
 - title: 'ROTed: Random Oblivious Transfer for embedded devices'
   artifact_url: https://artifacts.iacr.org/tches/2021/a15/
-- title: "FIVER \u2013 Robust Veri\uFB01cation of Countermeasures against Fault Injections"
+- title: FIVER – Robust Veriﬁcation of Countermeasures against Fault Injections
   artifact_url: https://artifacts.iacr.org/tches/2021/a16/
 - title: Side-Channel Protections for Picnic Signatures
   artifact_url: https://artifacts.iacr.org/tches/2021/a17/
@@ -4112,8 +4112,8 @@ ches2022:
 - title: 'BreakMi: Reversing, Exploiting, and Fixing Xiaomi Fitness Tracking Ecosystem'
   artifact_url: https://artifacts.iacr.org/tches/2022/a11/
   issue: 3
-- title: "Don\u2019t Reject This: Key-Recovery Timing Attacks Due to Rejection-Sampling\
-    \ in HQC and BIKE"
+- title: 'Don’t Reject This: Key-Recovery Timing Attacks Due to Rejection-Sampling
+    in HQC and BIKE'
   artifact_url: https://artifacts.iacr.org/tches/2022/a12/
   issue: 3
 - title: A Security Model for Randomization-based Protected Caches
@@ -4165,7 +4165,7 @@ ches2023:
 - title: 'MCRank: Monte Carlo Key Rank Estimation for Side-Channel Security Evaluations'
   artifact_url: https://artifacts.iacr.org/tches/2023/a2/
   issue: 1
-- title: "SoK: SCA-secure ECC in software \u2013 mission impossible?"
+- title: 'SoK: SCA-secure ECC in software – mission impossible?'
   artifact_url: https://artifacts.iacr.org/tches/2023/a4/
   issue: 1
 - title: On Protecting SPHINCS+ Against Fault Attacks
@@ -4177,8 +4177,8 @@ ches2023:
 - title: A Closer Look at the Chaotic Ring Oscillators based TRNG Design
   artifact_url: https://artifacts.iacr.org/tches/2023/a8/
   issue: 2
-- title: "\"Whispering MLaaS\" \u2013 Exploiting Timing Channels to Compromise User\
-    \ Privacy in Deep Neural Networks"
+- title: '"Whispering MLaaS" – Exploiting Timing Channels to Compromise User Privacy
+    in Deep Neural Networks'
   artifact_url: https://artifacts.iacr.org/tches/2023/a9/
   issue: 2
 - title: 'Kavach: Lightweight masking techniques for polynomial arithmetic in lattice-based
@@ -4188,7 +4188,7 @@ ches2023:
 - title: 'Oil and Vinegar: Modern Parameters and Implementations'
   artifact_url: https://artifacts.iacr.org/tches/2023/a11/
   issue: 3
-- title: "Formally verifying Kyber \u2013 Episode IV: Implementation correctness"
+- title: 'Formally verifying Kyber – Episode IV: Implementation correctness'
   artifact_url: https://artifacts.iacr.org/tches/2023/a12/
   issue: 3
 - title: 'Pasta: A Case for Hybrid Homomorphic Encryption'
@@ -4198,18 +4198,18 @@ ches2023:
     HMAC-SHA-2
   artifact_url: https://artifacts.iacr.org/tches/2023/a14/
   issue: 3
-- title: "Separating Oil and Vinegar with a Single Trace \u2013 Side-Channel Assisted\
-    \ Kipnis-Shamir Attack on UOV"
+- title: Separating Oil and Vinegar with a Single Trace – Side-Channel Assisted Kipnis-Shamir
+    Attack on UOV
   artifact_url: https://artifacts.iacr.org/tches/2023/a15/
   issue: 3
 - title: Faster Montgomery multiplication and Multi-Scalar-Multiplication for SNARKs
   artifact_url: https://artifacts.iacr.org/tches/2023/a16/
   issue: 3
-- title: "PROLEAD_SW \u2013 Probing-Based Software Leakage Detection for ARM Binaries"
+- title: PROLEAD_SW – Probing-Based Software Leakage Detection for ARM Binaries
   artifact_url: https://artifacts.iacr.org/tches/2023/a17/
   issue: 3
-- title: "Efficient Regression-Based Linear Discriminant Analysis for Side-Channel\
-    \ Security Evaluations \u2013 Towards Analytical Attacks against 32-bit Implementations"
+- title: Efficient Regression-Based Linear Discriminant Analysis for Side-Channel
+    Security Evaluations – Towards Analytical Attacks against 32-bit Implementations
   artifact_url: https://artifacts.iacr.org/tches/2023/a18/
   issue: 3
 - title: Enhancing Quality and Security of the PLL-TRNG
@@ -4493,7 +4493,7 @@ ches2025:
   issue: 3
   badge:
   - available
-- title: "KeyVisor \xE2\x80\x93 A Lightweight ISA Extension for Protected Key Handles\
+- title: "KeyVisor â\x80\x93 A Lightweight ISA Extension for Protected Key Handles\
     \ with CPU-enforced Usage Policies"
   artifact_url: https://artifacts.iacr.org/tches/2025/a22/
   issue: 3
@@ -4521,8 +4521,8 @@ ches2025:
   issue: 3
   badge:
   - functional
-- title: "Let\u2019s DOIT: Using Intel\u2019s Extended HW/SW Contract for Secure Compilation\
-    \ of Crypto Code"
+- title: 'Let’s DOIT: Using Intel’s Extended HW/SW Contract for Secure Compilation
+    of Crypto Code'
   artifact_url: https://artifacts.iacr.org/tches/2025/a28/
   issue: 3
   badge:
@@ -5106,7 +5106,7 @@ ndss2026:
     Replicas
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.16956543
-  award: "Distinguished Artifact Award \U0001F3C6"
+  award: Distinguished Artifact Award 🏆
 - title: Convergent Privacy Framework for Multi-layer GNNs through Contractive Message
     Passing
   badges: available,functional,reproduced
@@ -5306,8 +5306,8 @@ ndss2026:
 - title: 'RTCON: Context-Adaptive Function-Level Fuzzing for RTOS Kernels'
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.17540919
-- title: "Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century\u2019\
-    s Worth of Squabbles"
+- title: 'Repairing Trust in Domain Name Disputes Practices: Insights from a Quarter-Century’s
+    Worth of Squabbles'
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.16954716
 - title: Revisiting Differentially Private Hyper-parameter Tuning
@@ -5374,7 +5374,7 @@ ndss2026:
     Avoidance (TCAS)'
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.17428590
-  award: "Distinguished Artifact Award \U0001F3C6"
+  award: Distinguished Artifact Award 🏆
 - title: 'Unshaken by Weak Embedding: Robust Probabilistic Watermarking for Dataset
     Copyright Protection'
   badges: available,functional,reproduced
@@ -5405,7 +5405,7 @@ ndss2026:
     Adversarial Nodes in Mix Networks'
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.17703144
-  award: "Distinguished Artifact Award \U0001F3C6"
+  award: Distinguished Artifact Award 🏆
 - title: 'ZKSL: Verifiable and Efficient Split Federated Learning via Asynchronous
     Zero-Knowledge Proofs'
   badges: available
@@ -5417,7 +5417,7 @@ ndss2026:
     Analysis'
   badges: available,functional,reproduced
   artifact_url: https://doi.org/10.5281/zenodo.17751555
-- title: "\u03BCFuzz: Microcode-Guided Post-Silicon x86 CPU Fuzzer"
+- title: 'μFuzz: Microcode-Guided Post-Silicon x86 CPU Fuzzer'
   badges: available
   artifact_url: https://doi.org/10.5281/zenodo.17012971
 pets2020:
@@ -5532,8 +5532,7 @@ pets2021:
   title: 'A calculus of tracking: theory and practice'
   artifact_url: https://github.com/giorgioditizio/calculus_of_tracking
 - paper_url: https://petsymposium.org/2021/files/papers/issue2/popets-2021-0033.pdf
-  title: "D\xE9j\xE0 vu: Abusing Browser Cache Headers to Identify and Track Online\
-    \ Users"
+  title: 'Déjà vu: Abusing Browser Cache Headers to Identify and Track Online Users'
   artifact_url: https://github.com/mishravikas/PETS_dejavu
 - paper_url: https://petsymposium.org/2021/files/papers/issue3/popets-2021-0056.pdf
   title: 'ML-CB: Machine Learning Canvas Block'
@@ -5626,8 +5625,8 @@ pets2022:
     Apps'
   artifact_url: https://github.com/wi-pi/VCAMuteButton_PoPETS
 - paper_url: https://petsymposium.org/2022/files/papers/issue3/popets-2022-0070.pdf
-  title: "Privacy accounting \u03B5conomics: Improving differential privacy composition\
-    \ via a posteriori bounds"
+  title: 'Privacy accounting εconomics: Improving differential privacy composition
+    via a posteriori bounds'
   artifact_url: https://doi.org/10.6084/m9.figshare.19330649
 - paper_url: https://petsymposium.org/2022/files/papers/issue1/popets-2022-0017.pdf
   title: Differentially private partition selection
@@ -5727,8 +5726,8 @@ pets2022:
   title: 'Trace Oddity: Methodologies for Data-Driven Traffic Analysis on Tor'
   artifact_url: https://github.com/DistriNet/DLTC
 - paper_url: https://petsymposium.org/2022/files/papers/issue1/popets-2022-0022.pdf
-  title: "If You Like Me, Please Don\u2019t \"Like\" Me: Inferring Vendor Bitcoin\
-    \ Addresses From Positive Reviews"
+  title: 'If You Like Me, Please Don’t "Like" Me: Inferring Vendor Bitcoin Addresses
+    From Positive Reviews'
   artifact_url: https://www.wim.uni-mannheim.de/ths/research/data
 - paper_url: https://petsymposium.org/2022/files/papers/issue4/popets-2022-0114.pdf
   title: Flexible and scalable privacy assessment for very large datasets, with an
@@ -5767,8 +5766,8 @@ pets2023:
   title: Towards Sentence Level Inference Attack Against Pre-trained Language Models
   artifact_url: https://github.com/KangGu96/Adv_decoder
 - paper_url: https://petsymposium.org/2023/files/papers/issue2/popets-2023-0044.pdf
-  title: "Heads in the Clouds? Measuring Universities\u2019 Migration to Public Clouds:\
-    \ Implications for Privacy &amp; Academic Freedom"
+  title: 'Heads in the Clouds? Measuring Universities’ Migration to Public Clouds:
+    Implications for Privacy &amp; Academic Freedom'
   artifact_url: https://git.aperture-labs.org/Cloudheads/cloudheadschecker
 - paper_url: https://petsymposium.org/2023/files/papers/issue1/popets-2023-0035.pdf
   title: Multi-Party Replicated Secret Sharing over a Ring with Applications to Privacy-Preserving
@@ -5830,8 +5829,8 @@ pets2023:
   title: Privacy-Aware Adversarial Network in Human Mobility Prediction
   artifact_url: https://github.com/YutingZhan/Mo-PAE
 - paper_url: https://petsymposium.org/2023/files/papers/issue2/popets-2023-0049.pdf
-  title: " Creative beyond TikToks: Investigating Adolescents\u2019 Social Privacy\
-    \ Management on TikTok"
+  title: ' Creative beyond TikToks: Investigating Adolescents’ Social Privacy Management
+    on TikTok'
   artifact_url: https://osf.io/z8d3w/
 - paper_url: https://petsymposium.org/2023/files/papers/issue4/popets-2023-0120.pdf
   title: On the Role and Form of Personal Information Disclosure in Cyberbullying
@@ -6140,7 +6139,7 @@ pets2024:
   artifact_url: https://github.com/xxsqwe/notry/tree/8647801cebb3184e150d5b1c6a5fb1c0dbc7f4c7
   badge: artifact-reproduced
 - paper_url: https://petsymposium.org/popets/2024/popets-2024-0105.pdf
-  title: "Fant\xF4mas: Understanding Face Anonymization Reversibility"
+  title: 'Fantômas: Understanding Face Anonymization Reversibility'
   artifact_url: https://github.com/kit-ps/seba/tree/b5fe27c5b518ce69ee65ade5e14fc10521441c8
   badge: artifact-available
 - paper_url: https://petsymposium.org/popets/2024/popets-2024-0048.pdf
@@ -6178,8 +6177,8 @@ pets2024:
   artifact_url: https://github.com/YuanXun2024/VFLGAN/tree/5e9d319e4ba6a514b3416c10ed8b99565d679329
   badge: artifact-available
 - paper_url: https://petsymposium.org/popets/2024/popets-2024-0113.pdf
-  title: "Decision-based Data Distribution (D\xB3): Enabling Users to Minimize Data\
-    \ Propagation in Privacy-sensitive Scenarios"
+  title: 'Decision-based Data Distribution (D³): Enabling Users to Minimize Data Propagation
+    in Privacy-sensitive Scenarios'
   artifact_url: https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/4236
   badge: artifact-available
 - paper_url: https://petsymposium.org/popets/2024/popets-2024-0119.pdf
@@ -6438,7 +6437,7 @@ pets2025:
   artifact_url: https://github.com/Impact-of-Mobile-SDK-Usage-on-Privacy/artifact/tree/feae392f07f8f8f4d73e9a10fa92c1e9c8f64927
   badges: available
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0029.pdf
-  title: "Improving the Performance and Security of Tor\u2019s Onion Services"
+  title: Improving the Performance and Security of Tor’s Onion Services
   artifact_url: https://github.com/BARC-Purdue/CenTor/tree/d2a9efe839df73de7aee87a317a8725b391e0042
   badges: available,functional
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0060.pdf
@@ -6559,8 +6558,8 @@ pets2025:
   artifact_url: https://github.com/NillionNetwork/WaveHelloToPrivacy/tree/9d8165e78aa9814b4fbff3c4891c8af21f30ec5b
   badges: available
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0147.pdf
-  title: "Okay Google, Where\u2019s My Tracker? Security, Privacy, and Performance\
-    \ Evaluation of Google\u2019s Find My Device Network"
+  title: Okay Google, Where’s My Tracker? Security, Privacy, and Performance Evaluation
+    of Google’s Find My Device Network
   artifact_url: https://github.com/seemoo-lab/Artifacts-for-Okay-Google-Where-is-My-Tracker/tree/pets25-artifact-evaluation
   badges: available,functional,reproduced
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0122.pdf
@@ -6591,8 +6590,8 @@ pets2025:
   artifact_url: https://github.com/necst/TimberStrike/releases/tag/pets25-artifact-evaluation
   badges: available
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0134.pdf
-  title: "AlphaFL: Secure Aggregation with Malicious\xB2 Security for Federated Learning\
-    \ against Dishonest Majority"
+  title: 'AlphaFL: Secure Aggregation with Malicious² Security for Federated Learning
+    against Dishonest Majority'
   artifact_url: https://github.com/Barkhausen-Institut/AlphaFL/tree/555426323ddbc2d0f463a5b84d3f8b2a9be3f231
   badges: available,functional,reproduced
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0043.pdf
@@ -6634,8 +6633,7 @@ pets2025:
   artifact_url: https://github.com/mad-lab-fau/ldp-group-mean/tree/9fe89f92f36af8973e6b59115030ac75d8f3cdac
   badges: available,functional,reproduced
 - paper_url: https://www.petsymposium.org/popets/2025/popets-2025-0143.pdf
-  title: "Who\u2019s Watching You Zoom? Investigating Privacy of Third-Party Zoom\
-    \ Apps"
+  title: Who’s Watching You Zoom? Investigating Privacy of Third-Party Zoom Apps
   artifact_url: https://github.com/PERSUE-Lab-ASU/Zoom-Privacy-Data-Collection-Framework/tree/eaf7555062733fc710fb81d955b977871a42bdce
   badges: available
 - paper_url: https://petsymposium.org/popets/2025/popets-2025-0071.pdf
@@ -6663,8 +6661,8 @@ pets2026:
   artifact_url: https://doi.org/10.5281/zenodo.17104154
   badges: available
 - paper_url: https://doi.org/10.56553/popets-2026-0031
-  title: "Ad Personalization and Transparency in Mobile Ecosystems: A Comparative\
-    \ Analysis of Google\u2019s and Apple\u2019s EU App Stores"
+  title: 'Ad Personalization and Transparency in Mobile Ecosystems: A Comparative
+    Analysis of Google’s and Apple’s EU App Stores'
   artifact_url: https://github.com/seemoo-lab/appstore-ad-tools/tree/4bc9d4f70b13e52523382b81574c62983c3ca879
   badges: available, functional, reproduced
 - paper_url: https://doi.org/10.56553/popets-2026-0012
@@ -6844,8 +6842,8 @@ pets2026:
   artifact_url: https://github.com/lukic-papadopoulos-research/impact_of_google_mv3_update_on_ad_blocker_effectiveness/tree/c95598f906b9b1f4b1a64143ddd3e31d6bfc4b72
   badges: available, functional, reproduced
 - paper_url: ''
-  title: "\u201CI Just Press Allow\u201D: Understanding Privacy Practices of New Internet\
-    \ Users in Urban India"
+  title: '“I Just Press Allow”: Understanding Privacy Practices of New Internet Users
+    in Urban India'
   artifact_url: https://github.com/Priyankapopuri08/PoPETs-Understanding-Privacy-Practices/tree/1191ca5b1274b49bab8ed1d38a6cc3c790b70fd1
   badges: available
 - paper_url: ''
@@ -7124,9 +7122,9 @@ usenixsec2021:
   badges: Artifact Evaluated
   artifact_url: https://github.com/mc2-project/cerebro
   paper_url: https://www.usenix.org/system/files/sec21-zheng.pdf
-- title: "Disrupting Continuity of Apple\u2019s Wireless Ecosystem Security: New Tracking,\
-    \ DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and\
-    \ Wi-Fi"
+- title: 'Disrupting Continuity of Apple’s Wireless Ecosystem Security: New Tracking,
+    DoS, and MitM Attacks on iOS and macOS Through Bluetooth Low Energy, AWDL, and
+    Wi-Fi'
   badges: Artifact Evaluated
   artifact_url: https://github.com/seemoo-lab/openwifipass
   paper_url: https://www.usenix.org/system/files/sec21-stute.pdf
@@ -7307,7 +7305,7 @@ usenixsec2022:
   artifact_url: https://github.com/corkami/mitra/tree/Usenix22
   appendix_url: appendix-files/sec22summerae-final14.pdf
   paper_url: https://www.usenix.org/conference/usenixsecurity22/presentation/albertini
-- title: "Synthetic Data \u2013 Anonymisation Groundhog Day"
+- title: Synthetic Data – Anonymisation Groundhog Day
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/spring-epfl/synthetic_data_release/tree/v1.1
   appendix_url: appendix-files/sec22summerae-final15.pdf
@@ -7891,8 +7889,8 @@ usenixsec2023:
   artifact_url: https://github.com/0xkol/rfc6056-device-tracker/tree/09dd6ab68e10566eb6ca7760ef78d4689c7e2b85
   appendix_url: appendix-files/sec23summerae-final16.pdf
   paper_url: https://www.usenix.org/conference/usenixsecurity23/presentation/kol
-- title: "Every Signature is Broken: On the Insecurity of Microsoft Office\u2019s\
-    \ OOXML Signatures"
+- title: 'Every Signature is Broken: On the Insecurity of Microsoft Office’s OOXML
+    Signatures'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/RUB-NDS/OOXML_Signature_Security/releases/tag/Artifact_Evaluation
   appendix_url: appendix-files/sec23summerae-final17.pdf
@@ -7994,7 +7992,7 @@ usenixsec2023:
   artifact_url: https://github.com/TRUST-TUDa/argus-data/tree/606d5a5ebe78f602e27b9f2c48ea103348463eeb
   appendix_url: appendix-files/sec23fallae-final15.pdf
   paper_url: https://www.usenix.org/conference/usenixsecurity23/presentation/rieger
-- title: "Educators\u2019 Perspectives of Using (or Not Using) Online Exam Proctoring"
+- title: Educators’ Perspectives of Using (or Not Using) Online Exam Proctoring
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/gwusec/2023-USENIX-Educator-Perspectives-of-Exam-Proctoring/tree/10b55097bd807eb0cf3e6a41b154fe4e4e235f43
   appendix_url: appendix-files/sec23fallae-final16.pdf
@@ -8137,8 +8135,8 @@ usenixsec2023:
   artifact_url: https://github.com/dedis/apir-code/tree/af3202e3776d4cb880256372dd51613ee34532ba
   appendix_url: appendix-files/sec23fallae-final45.pdf
   paper_url: https://www.usenix.org/conference/usenixsecurity23/presentation/colombo
-- title: "Understand Users\u2019 Privacy Perception and Decision of V2X Communication\
-    \ in Connected Autonomous Vehicles"
+- title: Understand Users’ Privacy Perception and Decision of V2X Communication in
+    Connected Autonomous Vehicles
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://zenodo.org/record/7707330#.ZAh0q3bMIQ8
   appendix_url: appendix-files/sec23fallae-final48.pdf
@@ -8279,8 +8277,8 @@ usenixsec2023:
   artifact_url: https://zenodo.org/record/7935034
   appendix_url: appendix-files/sec23winterae-final19.pdf
   paper_url: https://www.usenix.org/conference/usenixsecurity23/presentation/nair-identification
-- title: "Auditory Eyesight: Demystifying \u03BCs-Precision Keystroke Tracking Attacks\
-    \ on Unconstrained Keyboard Inputs"
+- title: 'Auditory Eyesight: Demystifying μs-Precision Keystroke Tracking Attacks
+    on Unconstrained Keyboard Inputs'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/auditoryeye/auditoryeye_artifact/releases/tag/20230809
   appendix_url: appendix-files/sec23winterae-final20.pdf
@@ -9745,8 +9743,8 @@ usenixsec2025:
   paper_url: null
   id: 46
 - cycle: sec25cycle1
-  title: "Following Devils\u2019 Footprint: Towards Real-time Detection of Price Manipulation\
-    \ Attacks"
+  title: 'Following Devils’ Footprint: Towards Real-time Detection of Price Manipulation
+    Attacks'
   badges: 'Badges: Available'
   artifact_url: https://figshare.com/articles/online_resource/SMARTCAT_Artifact/28192028
   appendix_url: null
@@ -9902,8 +9900,8 @@ usenixsec2025:
   paper_url: null
   id: 71
 - cycle: sec25cycle1
-  title: "DiskSpy: Exploring a Long-Range Covert-Channel Attack via mmWave Sensing\
-    \ of \xB5m-level HDD Vibrations"
+  title: 'DiskSpy: Exploring a Long-Range Covert-Channel Attack via mmWave Sensing
+    of µm-level HDD Vibrations'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.14649224
   appendix_url: null
@@ -9931,8 +9929,8 @@ usenixsec2025:
   paper_url: null
   id: 77
 - cycle: sec25cycle1
-  title: "\u201CThat\u2019s my perspective from 30 years of doing this\u201D: An Interview\
-    \ Study on Practices, Experiences, and Challenges of Updating Cryptographic Code"
+  title: '“That’s my perspective from 30 years of doing this”: An Interview Study
+    on Practices, Experiences, and Challenges of Updating Cryptographic Code'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.6084/m9.figshare.25975120
   appendix_url: null
@@ -9955,8 +9953,7 @@ usenixsec2025:
   paper_url: null
   id: 81
 - cycle: sec25cycle1
-  title: "A limited technical background is suf\uFB01cient for attack-defense tree\
-    \ acceptability"
+  title: A limited technical background is sufﬁcient for attack-defense tree acceptability
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://zenodo.org/records/14717343
   appendix_url: appendix-files/sec25cycle1ae-final82.pdf
@@ -9978,8 +9975,8 @@ usenixsec2025:
   paper_url: null
   id: 85
 - cycle: sec25cycle1
-  title: "Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters\
-    \ in DALL\xB7E Text-to-Image Pipelines"
+  title: 'Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters
+    in DALL·E Text-to-Image Pipelines'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://doi.org/10.5281/zenodo.14735417
   appendix_url: appendix-files/sec25cycle1ae-final86.pdf
@@ -10136,9 +10133,9 @@ usenixsec2025:
   paper_url: null
   id: 110
 - cycle: sec25cycle1
-  title: "\"Threat modeling is very formal, it\u2019s very technical, and also very\
-    \ hard to do correctly\": Investigating Threat Modeling Practices in Open-Source\
-    \ Software Projects"
+  title: '"Threat modeling is very formal, it’s very technical, and also very hard
+    to do correctly": Investigating Threat Modeling Practices in Open-Source Software
+    Projects'
   badges: 'Badges: Available'
   artifact_url: https://osf.io/kn5pb/?view_only=d82c73d6ca5749c38fad348806703642
   appendix_url: null
@@ -10153,8 +10150,8 @@ usenixsec2025:
   paper_url: null
   id: 112
 - cycle: sec25cycle1
-  title: "\"I\u2019m trying to learn. . . and I\u2019m shooting myself in the foot\"\
-    : Beginners\u2019 Struggles When Solving Binary Exploitation Exercises"
+  title: '"I’m trying to learn. . . and I’m shooting myself in the foot": Beginners’
+    Struggles When Solving Binary Exploitation Exercises'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://osf.io/y6xew/
   appendix_url: appendix-files/sec25cycle1ae-final113.pdf
@@ -10231,8 +10228,8 @@ usenixsec2025:
   paper_url: null
   id: 124
 - cycle: sec25cycle1
-  title: "Gotta Detect \u2019Em All: Fake Base Station and Multi-Step Attack Detection\
-    \ in Cellular Networks"
+  title: 'Gotta Detect ’Em All: Fake Base Station and Multi-Step Attack Detection
+    in Cellular Networks'
   badges: 'Badges: Available, Functional'
   artifact_url: https://zenodo.org/records/14720824
   appendix_url: appendix-files/sec25cycle1ae-final125.pdf
@@ -10309,7 +10306,7 @@ usenixsec2025:
   paper_url: null
   id: 135
 - cycle: sec25cycle1
-  title: "A Formal Analysis of Apple\u2019s iMessage PQ3 Protocol"
+  title: A Formal Analysis of Apple’s iMessage PQ3 Protocol
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://zenodo.org/records/14710688
   appendix_url: appendix-files/sec25cycle1ae-final136.pdf
@@ -10696,8 +10693,8 @@ usenixsec2025:
   paper_url: null
   id: 187
 - cycle: sec25cycle1
-  title: "Easy As Child\u2019s Play: An Empirical Study on Age Verification of Adult-Oriented\
-    \ Android Apps"
+  title: 'Easy As Child’s Play: An Empirical Study on Age Verification of Adult-Oriented
+    Android Apps'
   badges: 'Badges: Available, Functional'
   artifact_url: https://doi.org/10.5281/zenodo.14676162
   appendix_url: appendix-files/sec25cycle1ae-final188.pdf
@@ -10726,8 +10723,7 @@ usenixsec2025:
   paper_url: null
   id: 191
 - cycle: sec25cycle1
-  title: "Questionnaire Data \u2013 Digital Security Perceptions & Practices in 12\
-    \ Countries"
+  title: Questionnaire Data – Digital Security Perceptions & Practices in 12 Countries
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.60517/ZW12Z533J
   appendix_url: null
@@ -10809,8 +10805,8 @@ usenixsec2025:
   paper_url: null
   id: 202
 - cycle: sec25cycle1
-  title: "SoK: Come Together \u2013 Unifying Security, Information Theory, and Cognition\
-    \ for a Mixed Reality Deception Attack Ontology & Analysis Framework"
+  title: 'SoK: Come Together – Unifying Security, Information Theory, and Cognition
+    for a Mixed Reality Deception Attack Ontology & Analysis Framework'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.14732979
   appendix_url: null
@@ -11275,8 +11271,8 @@ usenixsec2025:
   paper_url: null
   id: 27
 - cycle: sec25cycle2
-  title: "My ZIP isn\u2019t your ZIP: Identifying and Exploiting Semantic Gaps Between\
-    \ ZIP Parsers"
+  title: 'My ZIP isn’t your ZIP: Identifying and Exploiting Semantic Gaps Between
+    ZIP Parsers'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://doi.org/10.5281/zenodo.15526863
   appendix_url: appendix-files/sec25cycle2ae-final28.pdf
@@ -11332,9 +11328,9 @@ usenixsec2025:
   paper_url: null
   id: 37
 - cycle: sec25cycle2
-  title: "\u201CHelps me Take the Post With a Grain of Salt:\u201D Soft Moderation\
-    \ Effects on Accuracy Perceptions and Sharing Intentions of Inauthentic Political\
-    \ Content on X"
+  title: “Helps me Take the Post With a Grain of Salt:” Soft Moderation Effects on
+    Accuracy Perceptions and Sharing Intentions of Inauthentic Political Content on
+    X
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://doi.org/10.17605/OSF.IO/PJ895
   appendix_url: appendix-files/sec25cycle2ae-final38.pdf
@@ -11569,8 +11565,8 @@ usenixsec2025:
   paper_url: null
   id: 76
 - cycle: sec25cycle2
-  title: "Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs\u2019\
-    \ Ethical Boundaries"
+  title: 'Mind the Inconspicuous: Revealing the Hidden Weakness in Aligned LLMs’ Ethical
+    Boundaries'
   badges: 'Badges: Available'
   artifact_url: https://zenodo.org/records/15578502
   paper_url: null
@@ -11824,8 +11820,8 @@ usenixsec2025:
   paper_url: null
   id: 119
 - cycle: sec25cycle2
-  title: "Approve Once, Regret Forever: On the Exploitation of Ethereum\u2019s Approve-TransferFrom\
-    \ Ecosystem"
+  title: 'Approve Once, Regret Forever: On the Exploitation of Ethereum’s Approve-TransferFrom
+    Ecosystem'
   badges: 'Badges: Available'
   artifact_url: https://zenodo.org/records/15599087
   paper_url: null
@@ -11864,7 +11860,7 @@ usenixsec2025:
   paper_url: null
   id: 125
 - cycle: sec25cycle2
-  title: "SoK: Automated TTP Extraction from CTI Reports \u2013 Are We There Yet?"
+  title: 'SoK: Automated TTP Extraction from CTI Reports – Are We There Yet?'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://zenodo.org/records/15608555
   appendix_url: appendix-files/sec25cycle2ae-final126.pdf
@@ -12004,8 +12000,8 @@ usenixsec2025:
   paper_url: null
   id: 146
 - cycle: sec25cycle2
-  title: "\u201CIt\u2019s not my responsibility to write them\u201D: An Empirical\
-    \ Study of Software Product Managers and Security Requirements"
+  title: '“It’s not my responsibility to write them”: An Empirical Study of Software
+    Product Managers and Security Requirements'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.6084/m9.figshare.29234525
   paper_url: null
@@ -12152,8 +12148,8 @@ usenixsec2025:
   paper_url: null
   id: 169
 - cycle: sec25cycle2
-  title: "No Way to Sign Out? Unpacking Non-Compliance with Google Play\u2019s App\
-    \ Account Deletion Requirements"
+  title: No Way to Sign Out? Unpacking Non-Compliance with Google Play’s App Account
+    Deletion Requirements
   badges: 'Badges: Available, Functional'
   artifact_url: https://doi.org/10.5281/zenodo.15610829
   appendix_url: appendix-files/sec25cycle2ae-final170.pdf
@@ -12196,8 +12192,8 @@ usenixsec2025:
   paper_url: null
   id: 175
 - cycle: sec25cycle2
-  title: "Please don\u2019t send that bot anything: Mixed-methods Study of Personal\
-    \ Impersonation Attacks to Steal Digital Payments on Social Media"
+  title: 'Please don’t send that bot anything: Mixed-methods Study of Personal Impersonation
+    Attacks to Steal Digital Payments on Social Media'
   badges: 'Badges: Available'
   artifact_urls:
   - https://doi.org/10.5281/zenodo.15611471
@@ -12365,8 +12361,8 @@ usenixsec2025:
   paper_url: null
   id: 198
 - cycle: sec25cycle2
-  title: "I wasn\u2019t sure if this is indeed a security risk: Data-driven Understanding\
-    \ of Security Issue Reporting in GitHub Repositories of Open Source npm Packages"
+  title: 'I wasn’t sure if this is indeed a security risk: Data-driven Understanding
+    of Security Issue Reporting in GitHub Repositories of Open Source npm Packages'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.15614029
   paper_url: null
@@ -12491,8 +12487,8 @@ usenixsec2026:
   paper_url: null
   id: 8
 - cycle: sec26cycle1
-  title: "A Midsummer Meme\u2019s Dream: Investigating Market Manipulations in the\
-    \ Meme Coin Ecosystem"
+  title: 'A Midsummer Meme’s Dream: Investigating Market Manipulations in the Meme
+    Coin Ecosystem'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.17830943
   appendix_url: null
@@ -13027,8 +13023,8 @@ usenixsec2026:
   paper_url: null
   id: 99
 - cycle: sec26cycle1
-  title: "'Abuse Risks are Often Inherent to Product Features': Exploring AI Vendors\u2019\
-    \ Bug Bounty and Responsible Disclosure Policies"
+  title: '''Abuse Risks are Often Inherent to Product Features'': Exploring AI Vendors’
+    Bug Bounty and Responsible Disclosure Policies'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.17957266
   appendix_url: null
@@ -13171,7 +13167,7 @@ usenixsec2026:
   paper_url: null
   id: 120
 - cycle: sec26cycle1
-  title: "V\u03B5rity: Verifiable Local Differential Privacy"
+  title: 'Vεrity: Verifiable Local Differential Privacy'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.17959962
   appendix_url: null
@@ -13231,7 +13227,7 @@ usenixsec2026:
   paper_url: null
   id: 130
 - cycle: sec26cycle1
-  title: "Sliding into the Flight Deck\u2019s DMs: Practical Message Attacks on CPDLC"
+  title: 'Sliding into the Flight Deck’s DMs: Practical Message Attacks on CPDLC'
   badges: 'Badges: Available'
   artifact_url: https://doi.org/10.5281/zenodo.17964693
   appendix_url: null
@@ -13269,7 +13265,7 @@ usenixsec2026:
   paper_url: null
   id: 136
 - cycle: sec26cycle1
-  title: "Security and Privacy Analysis of Tile\u2019s Location Tracking Protocol"
+  title: Security and Privacy Analysis of Tile’s Location Tracking Protocol
   badges: 'Badges: Available'
   artifact_url: https://zenodo.org/records/17966636?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImZhM2JkYWI5LTYzMGEtNDEwNy1iOWNkLTE2YzY5OTc0ODEzOCIsImRhdGEiOnt9LCJyYW5kb20iOiIyYWJlMGI3ZmI2MmI2NWZmYjMwOTU5MDIwYTkwOWY4MSJ9.bdRa0H3U9fKDIriW_Gi-Cb6Lx44LUV-0yyFiT2iZxsOxZtzUwpH4SdUXuOkhnrTqaXbCRa070Tp6cu7YQS21OQ
   appendix_url: null
@@ -13284,9 +13280,9 @@ usenixsec2026:
   paper_url: null
   id: 138
 - cycle: sec26cycle1
-  title: "\"Your imaging may be stone-cold normal, but if they look sick, they\u2019\
-    re going to get admitted\": An Investigation of Clinicians\u2019 Perceptions of\
-    \ Impact & Likelihood of Security Failures"
+  title: '"Your imaging may be stone-cold normal, but if they look sick, they’re going
+    to get admitted": An Investigation of Clinicians’ Perceptions of Impact & Likelihood
+    of Security Failures'
   badges: 'Badges: Available'
   artifact_url: https://osf.io/ahjp3/overview?view_only=8442f58f00ca4dfdbf2ed2dfa90baba0
   appendix_url: null
@@ -13315,9 +13311,8 @@ usenixsec2026:
   paper_url: null
   id: 142
 - cycle: sec26cycle1
-  title: "The Adverse Effects of Omitting Records in Differential Privacy: How Sampling\
-    \ and Suppression Degrade the Privacy\u2013Utility Tradeoff (USENIX Security 2026\
-    \ Artifact)"
+  title: 'The Adverse Effects of Omitting Records in Differential Privacy: How Sampling
+    and Suppression Degrade the Privacy–Utility Tradeoff (USENIX Security 2026 Artifact)'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://zenodo.org/records/17977527
   appendix_url: appendix-files/sec26cycle1ae-final144.pdf
@@ -13370,8 +13365,8 @@ usenixsec2026:
   paper_url: null
   id: 151
 - cycle: sec26cycle1
-  title: "Patch-Guided Vulnerability Detection: Extracting Java API Security Rules\
-    \ via Attack\u2013Defense Cross-Analysis"
+  title: 'Patch-Guided Vulnerability Detection: Extracting Java API Security Rules
+    via Attack–Defense Cross-Analysis'
   badges: 'Badges: Available'
   artifact_url: https://zenodo.org/records/17972522
   appendix_url: null
@@ -13386,8 +13381,8 @@ usenixsec2026:
   paper_url: null
   id: 153
 - cycle: sec26cycle1
-  title: "Love, Lies, and Language Models: Investigating AI\u2019s Role in Romance-Baiting\
-    \ Scams"
+  title: 'Love, Lies, and Language Models: Investigating AI’s Role in Romance-Baiting
+    Scams'
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://doi.org/10.5281/zenodo.17984568
   appendix_url: appendix-files/sec26cycle1ae-final154.pdf
@@ -13409,8 +13404,8 @@ usenixsec2026:
   paper_url: null
   id: 157
 - cycle: sec26cycle1
-  title: "ViPer Strike: Defeating Visual Reasoning CAPTCHAs via Structured Vision\u2013\
-    Language Inference"
+  title: 'ViPer Strike: Defeating Visual Reasoning CAPTCHAs via Structured Vision–Language
+    Inference'
   badges: 'Badges: Available'
   artifact_url: https://zenodo.org/records/18191465
   appendix_url: null
@@ -13654,13 +13649,13 @@ woot2023:
   artifact_url: https://doi.org/10.5281/zenodo.7786224
   paper_url: https://wootconference.org/papers/woot23-paper22.pdf
 woot2024:
-- title: "Exploiting Android\u2019s Hardened Memory Allocator"
+- title: Exploiting Android’s Hardened Memory Allocator
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/HexHive/scudo-exploitation/tree/woot24
   appendix_url: appendix-files/woot24ae-final1.pdf
   paper_url: https://www.usenix.org/conference/woot24/presentation/mao
-- title: "SoK: Where\u2019s the \u201Cup\u201D?! A Comprehensive (bottom-up) Study\
-    \ on the Security of Arm Cortex-M Systems"
+- title: 'SoK: Where’s the “up”?! A Comprehensive (bottom-up) Study on the Security
+    of Arm Cortex-M Systems'
   badges: 'Badges: Available'
   artifact_url: https://github.com/CactiLab/SoK-Cortex-M/releases/tag/v1.0
   paper_url: https://www.usenix.org/conference/woot24/presentation/tan
@@ -13683,8 +13678,8 @@ woot2024:
   badges: 'Badges: Available, Functional'
   artifact_url: https://doi.org/10.5281/zenodo.11352869
   paper_url: https://www.usenix.org/conference/woot24/presentation/gruza
-- title: "Basilisk: Remote Code Execution by Laser Excitation of P\u2013N Junctions\
-    \ Without Insider Assistance"
+- title: 'Basilisk: Remote Code Execution by Laser Excitation of P–N Junctions Without
+    Insider Assistance'
   badges: 'Badges: Available, Functional'
   artifact_url: https://github.com/jloughry/basilisk_artifacts/releases/tag/v.1
   appendix_url: appendix-files/woot24ae-final7.pdf
@@ -13706,8 +13701,8 @@ woot2025:
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://doi.org/10.5281/zenodo.15476514
   paper_url: https://www.usenix.org/conference/woot25/presentation/chen
-- title: "Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted\
-    \ Spectrograms\u2019 Typo Correction"
+- title: Making Acoustic Side-Channel Attacks on Noisy Keyboards Viable with LLM-Assisted
+    Spectrograms’ Typo Correction
   badges: 'Badges: Available, Functional, Reproduced'
   artifact_url: https://github.com/Botacin-s-Lab/EchoCrypt
   appendix_url: appendix-files/woot25ae-final2.pdf
@@ -13718,8 +13713,8 @@ woot2025:
   artifact_url: https://github.com/sgxgsx/BlueToolkit
   appendix_url: appendix-files/woot25ae-final3.pdf
   paper_url: https://www.usenix.org/conference/woot25/presentation/zubkov
-- title: "GlitchGl\xFCck: Enabling Software Vulnerabilities through Guided Hardware\
-    \ Fault Injection"
+- title: 'GlitchGlück: Enabling Software Vulnerabilities through Guided Hardware Fault
+    Injection'
   badges: 'Badges: Available, Functional'
   artifact_url: https://github.com/Secure-Embedded-Systems/woot2025-GlitchGluck/archive/refs/tags/woot25-artifact.tar.gz
   appendix_url: appendix-files/woot25ae-final4.pdf
@@ -13764,14 +13759,14 @@ woot2025:
   artifact_url: https://github.com/bhamsec/woot25-rp2350-challenge/releases/tag/v1.0
   appendix_url: appendix-files/woot25ae-final13.pdf
   paper_url: https://www.usenix.org/conference/woot25/presentation/muench
-- title: "Prekey Pogo: Investigating Security and Privacy Issues in WhatsApp\u2019\
-    s Handshake Mechanism"
+- title: 'Prekey Pogo: Investigating Security and Privacy Issues in WhatsApp’s Handshake
+    Mechanism'
   badges: 'Badges: Available, Functional'
   artifact_url: https://github.com/sbaresearch/prekey-pogo/tree/woot25ae
   appendix_url: appendix-files/woot25ae-final14.pdf
   paper_url: https://www.usenix.org/conference/woot25/presentation/gegenhuber
-- title: "DeepRed: A Deep Learning\u2013Powered Command and Control Framework for\
-    \ Multi-Stage Red Teaming Against ML-based Network Intrusion Detection Systems"
+- title: 'DeepRed: A Deep Learning–Powered Command and Control Framework for Multi-Stage
+    Red Teaming Against ML-based Network Intrusion Detection Systems'
   badges: 'Badges: Available, Functional'
   artifact_url: https://doi.org/10.5281/zenodo.15668685
   appendix_url: appendix-files/woot25ae-final15.pdf
