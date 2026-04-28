@@ -62,6 +62,18 @@ html {
   }
 }
 
+// Reduce masthead vertical padding (theme default is 1em top+bottom)
+.masthead__inner-wrap {
+  padding-top: 0.35em;
+  padding-bottom: 0.35em;
+}
+
+// Shrink logo to match the tighter masthead
+.site-logo svg {
+  width: 32px;
+  height: 32px;
+}
+
 // Reset #main padding — the theme sets padding-inline:1em which doubles
 // the indent since .initial-content already provides the outer padding.
 #main {
@@ -250,6 +262,25 @@ a[href="#footer"] {
     color: #d6d9dc !important;
   }
 
+  // Force light text for elements that use inline gray text colors
+  // (color:#333..#999) in HTML or <style> blocks. Exclude elements whose
+  // color is set intentionally (badges, rank-change arrows, etc.) by using
+  // a broad selector + individual exceptions below.
+  [style*="color:#555"],
+  [style*="color:#666"],
+  [style*="color:#444"],
+  [style*="color:#999"],
+  [style*="color:#888"],
+  [style*="color:#777"],
+  [style*="color: #555"],
+  [style*="color: #666"],
+  [style*="color: #444"],
+  [style*="color: #999"],
+  [style*="color: #888"],
+  [style*="color: #777"] {
+    color: #aab0b8 !important;
+  }
+
   // Page chrome
   .masthead,
   .greedy-nav,
@@ -280,7 +311,8 @@ a[href="#footer"] {
   .page__content,
   .archive,
   .archive__item-excerpt,
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4, h5, h6,
+  .page__title a {
     color: #d6d9dc !important;
   }
   .page__content a,
@@ -358,8 +390,120 @@ a[href="#footer"] {
     color: #d6d9dc !important;
     border-color: #383c43 !important;
   }
+  .score-card .val {
+    color: #d6d9dc !important;
+  }
+  .score-card .lbl {
+    color: #aab0b8 !important;
+  }
+  // Search autocomplete in profiles
+  .profile-search-results li:hover,
+  .profile-search-results li.active {
+    background: #2c3038 !important;
+  }
+  .profile-search-results li {
+    border-color: #383c43 !important;
+  }
 
+  // Legend / total-info text beside tables (override inline color:#555/#666)
+  #author-legend, #inst-legend, #institution-legend,
+  #combined-legend, #ae-legend {
+    color: #aab0b8 !important;
+  }
+  #authorTotal, #instTotal, #iTotalInfo,
+  #cTotalInfo, #mTotalInfo, #aeTotal {
+    color: #9ca3ab !important;
+  }
 
+  // Rank-change "unchanged" indicator (inline color:#999)
+  .rank-unchanged {
+    color: #777 !important;
+  }
+
+  // Institution expanded-row sub-table (JS-generated inline styles)
+  #institutionTable .expanded-row td {
+    background-color: #1f2227 !important;
+    color: #d6d9dc !important;
+  }
+  #institutionTable .expanded-row table {
+    background: transparent !important;
+  }
+  #institutionTable .expanded-row th {
+    background-color: #2c3038 !important;
+    color: #f0f0f0 !important;
+    border-color: #4a4f57 !important;
+  }
+  #institutionTable .expanded-row td td {
+    border-color: #4a4f57 !important;
+  }
+  #institutionTable .expanded-row tr:nth-child(even),
+  #institutionTable .expanded-row tr:nth-child(even) td {
+    background-color: #23272d !important;
+  }
+  #institutionTable .expanded-row tr:nth-child(odd),
+  #institutionTable .expanded-row tr:nth-child(odd) td {
+    background-color: #1f2227 !important;
+  }
+
+  // Profile page elements
+  .profile-header .affil {
+    color: #9ca3ab !important;
+  }
+  .profile-search-results {
+    background: #23272d !important;
+    border-color: #4a4f57 !important;
+  }
+  .profile-search-results .sr-detail {
+    color: #9ca3ab !important;
+  }
+  .share-btn {
+    background: #2c3038 !important;
+    color: #d6d9dc !important;
+    border-color: #4a4f57 !important;
+  }
+
+  // Table hover rows (override light-mode #e8f4f8)
+  .area-tbl tr:hover,
+  .conf-tbl tr:hover,
+  #memberTable tr:hover {
+    background-color: #2f3a44 !important;
+  }
+
+  // Expand button in institution table
+  .expand-btn {
+    color: #9ca3ab !important;
+  }
+  .expand-btn:hover {
+    color: #d6d9dc !important;
+  }
+
+  // Profile page: loading indicator
+  .profile-loading {
+    color: #9ca3ab !important;
+  }
+
+  // Index / search page: status text, sort controls, no-results
+  #searchStatus, #noResults, #sort-controls {
+    color: #aab0b8 !important;
+  }
+
+  // Institution profile: role tags keep their background colors but ensure readability
+  .role-tag {
+    color: #fff !important;
+  }
+
+  // Availability warning tooltip on index
+  .avail-warn {
+    background: #3d2f00 !important;
+    border-color: #665200 !important;
+    color: #ffc107 !important;
+  }
+
+  // Links with inline color:#0066cc — override to match dark mode link color
+  a[style*="color:#0066cc"],
+  a[style*="color: #0066cc"] {
+    color: #6cb6ff !important;
+  }
 
   // Logo: swap R and background colours; DB stays light blue
   .site-logo .logo-bg { fill: #e2e8f0 !important; }
