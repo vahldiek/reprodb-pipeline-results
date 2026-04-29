@@ -230,6 +230,12 @@ html {
   }
 }
 
+// Badge pills (colored labels for artifact badges)
+.badge-tag { display:inline-block; padding:2px 8px; border-radius:3px; font-size:0.8em; margin:1px 2px; color:#fff; }
+.badge-available { background:#3498db; }
+.badge-functional { background:#27ae60; }
+.badge-reproducible, .badge-reproduced, .badge-reusable { background:#8e44ad; }
+
 // Remove footer completely
 #footer,
 .page__footer,
@@ -279,6 +285,21 @@ a[href="#footer"] {
   [style*="color: #888"],
   [style*="color: #777"] {
     color: #aab0b8 !important;
+  }
+
+  // Filter / control labels (Area, Contribution Type, Researcher, Affiliation, etc.)
+  #institution-controls,
+  #combined-controls,
+  #ae-controls,
+  #author-controls,
+  #filters,
+  #sort-controls,
+  label {
+    color: #d6d9dc !important;
+  }
+  select option {
+    background: #23272d !important;
+    color: #d6d9dc !important;
   }
 
   // Page chrome
@@ -362,6 +383,10 @@ a[href="#footer"] {
   }
   table td, table th {
     border-color: #383c43 !important;
+    color: #d6d9dc !important;
+  }
+  table td a {
+    color: #6cb6ff !important;
   }
 
   // ReproDB-specific table tweaks
