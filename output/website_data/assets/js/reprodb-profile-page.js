@@ -351,16 +351,16 @@
       var detailRow = '';
       if (p.ae_conferences && p.ae_conferences.length > 0) {
         var sorted = p.ae_conferences.slice().sort(function(a, b) {
-          var ya = Array.isArray(a) ? a[1] : 0;
-          var yb = Array.isArray(b) ? b[1] : 0;
+          var ya = Array.isArray(a) ? a[1] : (a.year || 0);
+          var yb = Array.isArray(b) ? b[1] : (b.year || 0);
           return yb - ya;
         });
         var aeRows = sorted.map(function(entry) {
-          var conf = Array.isArray(entry) ? entry[0] : entry;
-          var yr = Array.isArray(entry) ? entry[1] : '';
-          var role = (Array.isArray(entry) && entry.length > 2) ? entry[2] : 'member';
+          var conf = Array.isArray(entry) ? entry[0] : (entry.conference || entry);
+          var yr = Array.isArray(entry) ? entry[1] : (entry.year || '');
+          var role = Array.isArray(entry) ? (entry.length > 2 ? entry[2] : 'member') : (entry.role || 'member');
           var roleLabel = role === 'chair' ? '★ Chair' : 'Member';
-          return '<tr><td>' + escHtml(conf) + '</td><td>' + yr + '</td><td>' + roleLabel + '</td></tr>';
+          return '<tr><td>' + escHtml(String(conf)) + '</td><td>' + yr + '</td><td>' + roleLabel + '</td></tr>';
         }).join('');
         detailRow = '<tr id="' + rowId + '" class="ae-detail-row" style="display:none;">' +
           '<td colspan="9"><table class="ae-inline-table"><thead><tr><th>Conference</th><th>Year</th><th>Role</th></tr></thead><tbody>' +
@@ -578,9 +578,9 @@
     affProfiles.forEach(function(p) {
       if (p.ae_conferences && p.ae_conferences.length > 0) {
         p.ae_conferences.forEach(function(entry) {
-          var conf = Array.isArray(entry) ? entry[0] : entry;
-          var yr = Array.isArray(entry) ? entry[1] : '';
-          var role = (Array.isArray(entry) && entry.length > 2) ? entry[2] : 'member';
+          var conf = Array.isArray(entry) ? entry[0] : (entry.conference || entry);
+          var yr = Array.isArray(entry) ? entry[1] : (entry.year || '');
+          var role = Array.isArray(entry) ? (entry.length > 2 ? entry[2] : 'member') : (entry.role || 'member');
           aeConferences[conf] = true;
           aeData.push({ authorName: p.name, conference: conf, year: yr, role: role });
         });
@@ -658,7 +658,7 @@
         // Show institution share button
         var instShareBtn = document.getElementById('inst-share-btn');
         if (instShareBtn) instShareBtn.style.display = 'inline-block';
-        return { displayValue: instName, urlParams: { type: 'institution' } };
+        return { displayValue: instName, urlParams: { name: instName, type: 'institution' } };
       } else {
         var authorName = key.substring(7);
         var p = profileMap[authorName];
@@ -675,7 +675,7 @@
       var nameParam = params.get('name');
       if (nameParam) nameParam = nameParam.replace(/[\t\n\r]+/g, ' ').replace(/  +/g, ' ').trim();
 
-      // Institution resolution
+      // Institution resolution (explicit type)
       if (typeParam === 'institution' && nameParam) {
         if (instMap[nameParam]) return { key: 'inst:' + nameParam, displayValue: nameParam };
         var lower = nameParam.toLowerCase();
@@ -696,6 +696,15 @@
       }
 
       if (resolved) return { key: 'author:' + resolved.name, displayValue: cleanName(resolved.name) };
+
+      // Fallback: try institution if no author matched
+      if (nameParam) {
+        if (instMap[nameParam]) return { key: 'inst:' + nameParam, displayValue: nameParam };
+        var lowerInst = nameParam.toLowerCase();
+        var instMatch = allInstitutions.find(function(inst) { return inst.affiliation.toLowerCase() === lowerInst; });
+        if (instMatch) return { key: 'inst:' + instMatch.affiliation, displayValue: instMatch.affiliation };
+      }
+
       if (nameParam) return { search: nameParam };
       return null;
     }
